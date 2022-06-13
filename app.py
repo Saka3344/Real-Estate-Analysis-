@@ -11,7 +11,10 @@ MONGODB_HOST = 'localhost'
 MONGODB_PORT = 27017
 DBS_NAME = 'domain'
 COLLECTION_NAME = 'projects'
-FIELDS = {'streetNumber': True, 'streetName': True, 'streetType	': True, 'suburb': True, 'state': True, 'geoLocation/latitude	': True,'geoLocation/longitude	': True,'propertyType': True,'bedrooms': True,'bathrooms': True,'price': True,'result': True,'agent': True}
+FIELDS = {'streetNumber': True, 'streetName': True, 'streetType	': True,
+                'suburb': True, 'state': True, 'geoLocation/latitude': True,
+                'geoLocation/longitude': True,'propertyType': True,'bedrooms': True,
+                'bathrooms': True,'price': True,'result': True,'agent': True}
 
 @app.route("/")
 def index():
