@@ -95,7 +95,13 @@ for (var i = 0; i < national_data.length; i++) {
       fillColor: "red",
       radius: markerSize(national_data[i].numberListedForAuction)
     })
+    .bindPopup("<h3> Location: " + national_data[i].cityname +
+    "</h3><hr><p> Date: " + new Date(national_data[i].lastModifiedDateTime) + "</p>" + 
+    "</h3><hr><p> Number Listed for Auction: " +  national_data[i].numberListedForAuction + "</p>" +
+    "</h3><hr><p> Number Actually Auctioned: " +  national_data[i].numberAuctioned + "</p>")
   );
+    
+  
 
   // Setting the marker radius for the city by passing population into the markerSize function
   auction_salesMarkers.push(
@@ -106,6 +112,9 @@ for (var i = 0; i < national_data.length; i++) {
       fillColor: "orange",
       radius: markerSize(national_data[i].numberSold)
     })
+    .bindPopup("<h3> Location: " + national_data[i].cityname +
+    "</h3><hr><p> Date: " + new Date(national_data[i].lastModifiedDateTime) + "</p>" + 
+    "</h3><hr><p> Number Sold: " +  national_data[i].numberSold + "</p>")
   );
 }
 
