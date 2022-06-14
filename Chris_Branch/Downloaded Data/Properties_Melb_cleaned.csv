@@ -1,0 +1,711 @@
+streetNumber,streetName,streetType,suburb,postcode,state,geoLocation/latitude,geoLocation/longitude,propertyType,bedrooms,bathrooms,price,result,agent
+169,Gipps,St,Abbotsford,3067,Vic,-37.8054352,144.9945933,House,2,1,1181000,AUSP,Jellis Craig Fitzroy
+50,Etzel,St,Airport West,3042,Vic,-37.7208781,144.8741319,House,4,1,N/A,AUPI,Barry Plant Essendon
+50,Fraser,St,Airport West,3042,Vic,-37.7238166,144.884876,Townhouse,2,1,635000,AUSD,Pagan Real Estate
+68,Grange,Rd,Airport West,3042,Vic,-37.7288552,144.8844255,Townhouse,4,3,1300000,AUSP,Barry Plant Keilor East
+22A,Highlands,Av,Airport West,3042,Vic,-37.721198,144.881371,House,3,2,N/A,AUVB,Jellis Craig Moonee Valley
+29,Roberts,Rd,Airport West,3042,Vic,-37.7263592,144.8807936,House,3,1,N/A,AUPI,Barry Plant Essendon
+153,Victory,Rd,Airport West,3042,Vic,-37.7174478,144.8782148,House,3,2,N/A,AUPI,Barry Plant Essendon
+6,Camelot,Dr,Albanvale,3021,Vic,-37.7444846,144.7783488,House,3,1,630000,PTSD,Barry Plant St Albans
+22,Greig,St,Albert Park,3206,Vic,-37.8412539,144.9500203,House,4,2,N/A,AUSD,Jellis Craig Port Phillip Pty Ltd
+65,Kerferd,Rd,Albert Park,3206,Vic,-37.844545,144.9571827,House,5,3,5500000,AUSD,Jellis Craig Port Phillip Pty Ltd
+125,Page,St,Albert Park,3206,Vic,-37.8477744,144.9561395,House,3,2,N/A,AUSD,Jellis Craig Port Phillip Pty Ltd
+16,Purnell,St,Altona,3018,Vic,-37.8653962,144.8106794,House,7,3,N/A,AUPI,Ray White Altona
+14,Romawi,St,Altona,3018,Vic,-37.8681707,144.8249965,Townhouse,3,2,986000,AUSD,Williams Real Estate
+11,Baldwin,St,Armadale,3143,Vic,-37.8543813,145.0215858,House,2,1,N/A,AUPN,Marshall White Stonnington
+13,Denbigh,Rd,Armadale,3143,Vic,-37.8590207,145.0152251,Unit,2,2,1025000,AUSD,Jellis Craig Stonnington
+114,Kooyong,Rd,Armadale,3143,Vic,-37.8529545,145.021306,Unit,2,1,680000,AUVB,Jellis Craig Stonnington
+40,Lambeth,Av,Armadale,3143,Vic,-37.8569481,145.0269783,House,4,2,4000000,AUVB,RT Edgar Toorak
+48,New,St,Armadale,3143,Vic,-37.8543523,145.0162884,Unit,3,2,N/A,AUSP,Belle Property Armadale
+8,Sutherland,Rd,Armadale,3143,Vic,-37.8603548,145.016922,Unit,2,2,700000,AUSD,Gary Peer
+18,Angler,Pde,Ascot Vale,3032,Vic,-37.7793983,144.9005238,House,4,2,1750000,AUVB,Nelson Alexander Ascot Vale
+12,Eden,Ct,Ascot Vale,3032,Vic,-37.7720777,144.9012116,House,3,1,N/A,AUVB,Woodards Ascot Vale
+11,Regent,St,Ascot Vale,3032,Vic,-37.773617,144.9262359,House,2,1,1170000,AUSP,Woodards Ascot Vale
+101,St Leonards,Rd,Ascot Vale,3032,Vic,-37.7738662,144.9131209,House,3,2,1601000,AUSD,Alexkarbon Real Estate
+109,Union,Rd,Ascot Vale,3032,Vic,-37.7760549,144.9152868,House,3,2,1280000,AUSP,Nelson Alexander Ascot Vale
+70,Nicholas,St,Ashburton,3147,Vic,-37.8734682,145.0743844,House,3,1,1835000,AUSP,Marshall White Stonnington
+36,Victory,Bvd,Ashburton,3147,Vic,-37.8670803,145.0822036,House,4,3,N/A,AUPN,Marshall White Balwyn
+10,Closter,Av,Ashwood,3147,Vic,-37.8649724,145.0950218,House,3,1,N/A,AUSD,Buxton Ashburton
+89,Huntingdale,Rd,Ashwood,3147,Vic,-37.8615908,145.112561,House,3,2,N/A,AUSP,Biggin & Scott Ashburton
+4,Errol,Cl,Aspendale Gardens,3195,Vic,-38.0221841,145.1228191,House,4,2,950000,AUVB,Community Real Estate
+10,Templeman,Ct,Aspendale Gardens,3195,Vic,-38.0201872,145.1197157,House,4,2,1250000,AUSD,Hodges Mentone/Chelsea
+53,North,Rd,Avondale Heights,3034,Vic,-37.7544638,144.8574156,House,3,1,995000,AUSP,Nelson Alexander Keilor East
+28,Rhonda,St,Avondale Heights,3034,Vic,-37.7705396,144.8558688,House,3,1,860000,AUSP,Moonee Valley Real Estate
+31a,Riverside,Av,Avondale Heights,3034,Vic,-37.7691131,144.8591773,Townhouse,3,2,840000,AUSP,Nelson Alexander Keilor East
+40,Robson,Av,Avondale Heights,3034,Vic,-37.7662823,144.8564918,House,3,1,1110000,AUSP,Moonee Valley Real Estate
+39,San Remo,Dr,Avondale Heights,3034,Vic,-37.7585556,144.8693186,House,4,2,N/A,AUHB,Nelson Alexander Keilor East
+27,Blenheim,St,Balaclava,3183,Vic,-37.8675089,144.9943273,House,3,1,N/A,AUSN,Buxton St Kilda
+5,Edward,St,Balaclava,3183,Vic,-37.8668055,144.991426,House,3,2,N/A,AUSD,The Agency - Port Phillip / Bayside
+6,Canyon,St,Balwyn,3103,Vic,-37.8062769,145.0678797,House,5,4,3480000,AUSD,Buxton Ashburton
+20,Evelina,St,Balwyn,3103,Vic,-37.8053934,145.1041986,House,5,3,2800000,AUSP,Marshall White Balwyn
+47,Gordon,St,Balwyn,3103,Vic,-37.8074408,145.0676829,House,4,2,N/A,AUSP,Nelson Alexander Kew
+20,Grosvenor,Pde,Balwyn,3103,Vic,-37.8078651,145.0798125,House,5,3,N/A,AUPN,Marshall White Balwyn
+55,Talbot,Av,Balwyn,3103,Vic,-37.8147161,145.0852103,Unit,2,1,N/A,AUSP,Anton Zhouk
+20,Westminster,St,Balwyn,3103,Vic,-37.8125358,145.097521,House,4,3,N/A,AUSP,Marshall White Balwyn
+7,Alpha,St,Balwyn North,3104,Vic,-37.7989746,145.0910145,House,5,2,N/A,AUSP,Marshall White Balwyn
+26,Bulleen,Rd,Balwyn North,3104,Vic,-37.7908264,145.072532,House,3,2,N/A,AUHB,Jellis Craig - Boroondara
+6,Hill,Rd,Balwyn North,3104,Vic,-37.7934545,145.0812773,House,4,3,2825000,AUVB,Jellis Craig - Boroondara
+12,Wynyard,Cr,Balwyn North,3104,Vic,-37.8035723,145.0928889,House,4,3,N/A,AUPN,Marshall White Balwyn
+86,Orange,Gr,Bayswater,3153,Vic,-37.846447,145.2551914,House,3,2,823000,AUSD,Barry Plant Wantirna
+7,Kyamba,Ct,Bayswater North,3153,Vic,-37.8202322,145.2730165,House,4,2,987000,AUSD,McGrath Croydon
+378,Balcombe,Rd,Beaumaris,3193,Vic,-37.9782386,145.0426354,Townhouse,3,2,1280000,AUSD,Buxton Sandringham
+446,Balcombe,Rd,Beaumaris,3193,Vic,-37.9775459,145.036318,House,4,2,N/A,AUVB,Bayside Beaches Real Estate
+41,Dalgetty,Rd,Beaumaris,3193,Vic,-37.9892433,145.0368061,House,4,3,N/A,AUSP,Buxton Chelsea
+140,Pellatt,St,Beaumaris,3193,Vic,-37.9801885,145.0436745,House,3,2,2110000,AUSP,Buxton Sandringham
+159,Tramway,Pde,Beaumaris,3193,Vic,-37.9829793,145.0438467,House,3,1,1700000,AUVB,Kay & Burton Bayside Brighton
+2,Erica,Ct,Bellfield,3081,Vic,-37.753281,145.040617,House,2,1,860000,AUSD,Nelson Alexander Ivanhoe
+1,Poplar,Cr,Bellfield,3081,Vic,-37.7522495,145.0352546,House,3,2,990000,AUSP,Nelson Alexander Ivanhoe
+12,Frank,St,Belmont,3216,Vic,-38.1688146,144.3474731,House,3,1,730000,AUSD,Barnett Real Estate
+58,James,St,Belmont,3216,Vic,-38.183187,144.3377272,House,2,1,N/A,AUPI,BP Real Estate Highton
+1,Morris,St,Belmont,3216,Vic,-38.1704039,144.3364036,House,3,2,N/A,AUPN,BP Real Estate Highton
+66,Fromer,St,Bentleigh,3204,Vic,-37.9290629,145.0463875,House,3,2,1700000,AUVB,Buxton Hampton East
+1,Halley,Ct,Bentleigh,3204,Vic,-37.9222817,145.0494021,House,4,1,1651000,AUSP,Buxton Bentleigh
+18,Seaview,Av,Bentleigh,3204,Vic,-37.9166361,145.0441482,House,4,1,N/A,AUVB,Jellis Craig Bentleigh
+7-Sep,South,Av,Bentleigh,3204,Vic,-37.9311935,145.0348018,Unit,2,1,N/A,AUSP,Buxton Bentleigh
+20,Barrington,St,Bentleigh East,3165,Vic,-37.9127056,145.0686119,House,3,1,1800000,AUSP,Jellis Craig Bentleigh
+127,Brady,Rd,Bentleigh East,3165,Vic,-37.9247629,145.0670612,House,4,2,N/A,AUSP,Buxton Bentleigh
+6,Brian,St,Bentleigh East,3165,Vic,-37.9248455,145.0511033,House,5,4,2572100,AUSD,Buxton Bentleigh
+25,East Boundary,Rd,Bentleigh East,3165,Vic,-37.932892,145.0563705,House,3,1,N/A,AUSD,C21 on Centre
+70b,Kennedy,St,Bentleigh East,3165,Vic,-37.92025,145.0816866,Townhouse,4,3,N/A,AUHB,Jellis Craig Bentleigh
+58B,Mawby,Rd,Bentleigh East,3165,Vic,-37.9296263,145.0552594,Townhouse,3,2,1352500,AUSP,Buxton Bentleigh
+37,Stockdale,Av,Bentleigh East,3165,Vic,-37.9173377,145.067535,House,3,1,N/A,AUSD,Jellis Craig Bentleigh
+53,Valkstone,St,Bentleigh East,3165,Vic,-37.9143327,145.0584466,House,3,1,1795000,AUSD,C21 on Centre
+36,Vasey,St,Bentleigh East,3165,Vic,-37.9351772,145.0655105,Townhouse,3,3,1186000,AUSP,Buxton Bentleigh
+8,Veronica,St,Bentleigh East,3165,Vic,-37.9253168,145.0762368,House,3,1,1270000,AUSD,Gary Peer
+37,Warwick,St,Bentleigh East,3165,Vic,-37.9207366,145.0706796,House,4,2,N/A,AUSD,Jellis Craig Bentleigh
+20,Orsino,Pl,Berwick,3806,Vic,-38.0430504,145.3298377,House,4,2,N/A,AUPI,C21 Property Specialists
+21,Peel,St,Berwick,3806,Vic,-38.0290161,145.3503206,House,6,2,2000000,AUSA,O'Brien Real Estate
+260,Beach,Rd,Black Rock,3193,Vic,-37.9705585,145.0122829,Townhouse,4,2,N/A,AUPN,Buxton Sandringham
+27,Potter,St,Black Rock,3193,Vic,-37.963801,145.0157739,House,3,2,2640000,AUSD,Buxton Sandringham
+32,Red Bluff,St,Black Rock,3193,Vic,-37.963095,145.015493,Townhouse,3,2,1500000,AUSD,Buxton Sandringham
+25,Stevens,Pde,Black Rock,3193,Vic,-37.9646581,145.0211983,House,3,2,2315000,AUSD,Buxton Brighton
+96,Blackburn,Rd,Blackburn,3130,Vic,-37.8281017,145.1525834,Unit,2,1,N/A,AUSP,Jellis Craig Whitehorse
+14,Cootamundra,Cr,Blackburn,3130,Vic,-37.8116863,145.1558432,House,3,2,N/A,AUSP,Jellis Craig Whitehorse
+1,Florence,St,Blackburn,3130,Vic,-37.8292603,145.1662354,House,4,2,1500000,AUSD,Fletchers Blackburn
+3,Ronley,St,Blackburn,3130,Vic,-37.8301628,145.1517897,House,4,2,1640000,AUSD,Jellis Craig Whitehorse
+136,Springfield,Rd,Blackburn,3130,Vic,-37.8111442,145.1564035,House,4,2,1080000,AUSP,Woodards Blackburn
+35,Mungala,Cr,Blairgowrie,3942,Vic,-38.3815638,144.7816972,House,2,1,N/A,AUSD,Belle Property Blairgowrie
+25,Coast Banksia,Dr,Bonbeach,3196,Vic,-38.0655788,145.1243709,House,3,2,1150000,AUSP,O'Brien Real Estate
+544,Nepean,Hwy,Bonbeach,3196,Vic,-38.0640639,145.1194216,Townhouse,3,2,1260000,AUVB,O'Brien Real Estate
+12,Williams,Gr,Bonbeach,3196,Vic,-38.0629688,145.118164,House,4,3,1905000,AUSD,Belle Property Mentone
+15,Duncan,Av,Boronia,3155,Vic,-37.8555021,145.2733404,Townhouse,3,2,852500,AUSA,Ray White Ferntree Gully
+1a,Duncan,Av,Boronia,3155,Vic,-37.8538563,145.2735563,Unit,2,1,700000,AUSD,Ray White Ferntree Gully
+4,New,St,Boronia,3155,Vic,-37.8471908,145.2929677,House,4,2,N/A,AUPN,Barry Plant Boronia
+5,Howard,St,Box Hill,3128,Vic,-37.8230691,145.1222157,House,3,2,N/A,AUVB,Ray White Manningham
+8,Barwon,St,Box Hill North,3129,Vic,-37.811043,145.1175291,Unit,2,1,655000,AUSD,The One Real Estate
+47,Packham,St,Box Hill North,3129,Vic,-37.8078111,145.134857,Unit,2,1,N/A,AUSD,Buxton Box Hill
+837,Station,St,Box Hill North,3129,Vic,-37.8096664,145.1252112,House,5,3,1560000,AUSD,Buxton Box Hill
+93,Churchill,Av,Braybrook,3019,Vic,-37.7861505,144.8589625,House,4,3,N/A,AUHB,Village Real Estate - Seddon
+6,Ravenhall,St,Braybrook,3019,Vic,-37.7871381,144.8476883,Unit,3,1,630000,AUSP,Barry Plant Sunshine
+139,Carpenter,St,Brighton,3186,Vic,-37.90672,145.001905,House,3,1,N/A,AUPN,Follett & Co
+121,Martin,St,Brighton,3186,Vic,-37.8969376,145.0023515,Unit,2,3,900000,AUHB,Steveway Real Estate
+22b,South,Rd,Brighton,3186,Vic,-37.9286085,144.9951343,Townhouse,3,3,1760000,AUSD,Hodges Brighton
+51,Were,St,Brighton,3186,Vic,-37.9245941,144.993133,House,4,2,3250000,AUHB,Buxton Brighton
+9,Carr,St,Brighton East,3187,Vic,-37.927547,145.0278286,House,4,2,N/A,AUPN,Marshall White Balwyn
+19,Heathfield,Rd,Brighton East,3187,Vic,-37.9270174,145.0070354,House,5,3,2800000,AUHB,Marshall White Balwyn
+10b,Lysander,St,Brighton East,3187,Vic,-37.9208257,145.0154295,Townhouse,4,2,1240000,AUSD,Buxton Hampton East
+55,Marriage,Rd,Brighton East,3187,Vic,-37.9190409,145.012864,House,4,2,N/A,AUSP,Buxton Bentleigh
+607,Nepean,Hwy,Brighton East,3187,Vic,-37.9136226,145.0162908,House,2,1,880000,AUSD,RW Moorabbin
+18,Primrose,Cr,Brighton East,3187,Vic,-37.9137988,145.0144039,Townhouse,3,2,N/A,AUSD,Buxton Brighton
+377,South,Rd,Brighton East,3187,Vic,-37.931907,145.02887,Unit,2,1,N/A,AUHB,Hodges Sandringham
+22,Wrixon,Av,Brighton East,3187,Vic,-37.9082656,145.0238676,House,4,2,N/A,AUSP,C21 on Centre
+20,Fashion,Pde,Broadmeadows,3047,Vic,-37.6893122,144.9490954,House,3,2,590000,AUHB,YPA EA Glenroy
+9,Glen Allan,St,Broadmeadows,3047,Vic,-37.6925926,144.9203877,House,3,1,675000,AUHB,YPA EA Glenroy
+22,Graham,St,Broadmeadows,3047,Vic,-37.6920347,144.9314395,House,4,2,N/A,AUPI,Barry Plant Glenroy
+11,Aberdeen,St,Brunswick,3056,Vic,-37.7670145,144.9698959,Unit,2,1,510000,AUSD,NAY Brunswick
+164,Albion,St,Brunswick,3056,Vic,-37.7614638,144.966669,House,4,1,N/A,AUSN,Walshe & Whitelock Pty Ltd
+103,Blyth,St,Brunswick,3056,Vic,-37.766116,144.9703691,House,4,2,1408888,AUSD,NAY Brunswick
+67,Blyth,St,Brunswick,3056,Vic,-37.7659008,144.9682824,Villa,2,1,788000,AUSD,NAY Brunswick
+10,Donald,St,Brunswick,3056,Vic,-37.757936,144.9649911,Unit,2,1,520000,AUVB,Woodards
+3,Garden,St,Brunswick,3056,Vic,-37.772529,144.9651631,House,3,1,1635000,AUSD,NAY Brunswick
+29,Hanover,St,Brunswick,3056,Vic,-37.7613258,144.9536767,House,3,1,N/A,AUHB,Jellis Craig Brunswick
+88,Henkel,St,Brunswick,3056,Vic,-37.765172,144.955693,House,4,2,N/A,AUSP,Jellis Craig Brunswick
+3,Marks,St,Brunswick,3056,Vic,-37.7682125,144.968476,House,3,1,N/A,AUSP,Jellis Craig Brunswick
+1,Minnie,St,Brunswick,3056,Vic,-37.7718643,144.9682609,House,4,1,N/A,AUHB,Brad Teal Woodards Pascoe Vale
+4,Peveril,St,Brunswick,3056,Vic,-37.7568249,144.9635423,House,2,1,1211000,AUSD,Jellis Craig Brunswick
+51,Union,St,Brunswick,3056,Vic,-37.7739967,144.956688,Unit,2,1,N/A,AUPI,Jellis Craig Brunswick
+21,Warne,St,Brunswick,3056,Vic,-37.75933,144.9572364,House,3,2,850000,AUVB,Woodards Northcote
+17,Barkly,St,Brunswick East,3057,Vic,-37.777506,144.9765839,Townhouse,2,1,N/A,AUSD,Woodards
+3,Dianella,Wky,Brunswick East,3057,Vic,-37.7765044,144.9773347,Townhouse,2,2,N/A,AUPI,Jellis Craig Brunswick
+178,Edward,St,Brunswick East,3057,Vic,-37.7752821,144.9726496,Townhouse,2,2,880000,AUSD,NAY Brunswick
+265,Edward,St,Brunswick East,3057,Vic,-37.7751738,144.9751344,House,2,1,1280000,AUSD,Jellis Craig Fitzroy
+53,Glenmorgan,St,Brunswick East,3057,Vic,-37.7631933,144.9755324,House,3,1,N/A,AUSD,NAY Brunswick
+455,Lygon,St,Brunswick East,3057,Vic,-37.7638732,144.9726926,Unit,2,1,N/A,AUPI,Jellis Craig Brunswick
+2,Killara,Mw,Bulleen,3105,Vic,-37.76940115,145.080997,House,4,2,N/A,AUSP,McGrath Northcote
+32,Pinnacle,Cr,Bulleen,3105,Vic,-37.7695811,145.093686,House,4,1,1155000,AUSD,Barry Plant Manningham
+5,Sefton,St,Bulleen,3105,Vic,-37.7783617,145.0929535,House,3,2,1140000,AUSD,Barry Plant Manningham
+1,Bodkin,Av,Bundoora,3083,Vic,-37.6925824,145.0766891,House,4,2,1400000,AUSD,Morrison Kleeman E A
+5,Champion,Cr,Bundoora,3083,Vic,-37.6983896,145.0780677,House,3,2,790000,AUSP,Barry Plant Bundoora
+18,Cher,Av,Bundoora,3083,Vic,-37.6934359,145.0486915,House,5,3,N/A,AUSP,Barry Plant Bundoora
+12,Coronation,Ct,Bundoora,3083,Vic,-37.7078898,145.0654244,House,3,2,907000,AUSD,Ray White Bundoora
+2,Elizabeth,Gr,Bundoora,3083,Vic,-37.701944,145.059651,Villa,3,1,615000,AUSP,RW Preston
+246,Greenhills,Rd,Bundoora,3083,Vic,-37.6903434,145.0450095,House,3,2,920000,AUSD,Barry Plant Bundoora
+434,Grimshaw,St,Bundoora,3083,Vic,-37.7008984,145.071935,Unit,3,2,N/A,AUPI,Barry Plant Bundoora
+12,Kelty,Tce,Bundoora,3083,Vic,-37.6913747,145.0749013,House,4,2,1250000,AUSD,Ray White Bundoora
+2,Medora,Av,Bundoora,3083,Vic,-37.6907383,145.0541826,House,3,1,727500,AUSD,Ray White Bundoora
+33,Cookson,Wy,Burwood,3125,Vic,-37.8578226,145.1105072,Townhouse,3,2,1045000,AUSP,Buxton Ashburton
+24,Harrison,Av,Burwood,3125,Vic,-37.8560007,145.0977333,House,4,2,N/A,AUSP,Jellis Craig - Boroondara
+10,Ireland,St,Burwood,3125,Vic,-37.8517578,145.1065114,Townhouse,3,2,1140000,AUSD,RW Burwood
+31,McCubbin,St,Burwood,3125,Vic,-37.8541257,145.1276537,Townhouse,2,1,782000,AUHB,Buxton Ashburton
+5,Alice,St,Burwood East,3151,Vic,-37.8575752,145.1526952,House,2,1,N/A,AUSN,Fletchers Blackburn
+43,Lindisfarne,Dr,Burwood East,3151,Vic,-37.8553874,145.1501081,House,8,3,1190500,AUSD,HAR Judd White
+20,Egret,Cr,Cairnlea,3023,Vic,-37.7482414,144.7841657,House,4,3,1360000,AUSP,Barry Plant Sunshine
+41,Athelstan,Rd,Camberwell,3124,Vic,-37.8423155,145.06452,House,4,2,2725000,AUSD,Fletchers Canterbury
+45,Broadway,,Camberwell,3124,Vic,-37.825013,145.0620705,House,5,2,N/A,AUSD,Marshall White Balwyn
+4,Gilmour,Rd,Camberwell,3124,Vic,-37.8414337,145.0908422,House,4,2,N/A,AUSP,Shelter Real Estate
+10a,Grace,St,Camberwell,3124,Vic,-37.843248,145.0585425,House,4,3,N/A,AUSD,Marshall White Balwyn
+23,Milverton,St,Camberwell,3124,Vic,-37.8479889,145.0854995,House,4,2,N/A,AUSD,Jellis Craig - Boroondara
+903,Riversdale,Rd,Camberwell,3124,Vic,-37.8348854,145.09151,Townhouse,2,2,N/A,AUSP,Fitch Partners
+12,Shaw,St,Camperdown,3260,Vic,-38.2383329,143.1403905,House,2,1,N/A,AUSP,RW Rural Camperdown
+42,Faversham,Rd,Canterbury,3126,Vic,-37.8201686,145.0856945,Unit,2,1,N/A,AUSP,Fletchers Canterbury
+33,Logan,St,Canterbury,3126,Vic,-37.827022,145.078469,Villa,2,1,N/A,AUSP,Fellowship Kew
+84,Wattle Valley,Rd,Canterbury,3126,Vic,-37.832893,145.0819451,House,5,3,N/A,AUSD,Jellis Craig - Boroondara
+14,Winson Green,Rd,Canterbury,3126,Vic,-37.8203966,145.0844655,House,4,3,N/A,AUSP,Fellowship Kew
+15,Keppel,St,Carlton,3053,Vic,-37.7968752,144.9668509,Unit,2,1,706000,AUSD,Woodards
+60-62,Macarthur,Pl N,Carlton,3053,Vic,-37.7979721,144.9711319,House,3,2,2318000,AUSD,Jellis Craig Brunswick
+595,Canning,St,Carlton North,3054,Vic,-37.7820424,144.975199,House,3,2,2500000,AUVB,Nelson Alexander Carlton
+829,Drummond,St,Carlton North,3054,Vic,-37.7850603,144.9708855,House,2,1,3000000,AUVB,Nelson Alexander Carlton
+1023,Rathdowne,St,Carlton North,3054,Vic,-37.7799405,144.9732232,Unit,2,1,740000,AUVB,Nelson Alexander Carlton
+22,Buckley,St,Carnegie,3163,Vic,-37.8866967,145.0520373,House,4,1,1173000,AUSD,Gary Peer
+28,Jersey,Pde,Carnegie,3163,Vic,-37.8878999,145.0602399,Unit,3,2,925000,AUSP,Jellis Craig Carnegie
+10,Cook,St,Caroline Springs,3023,Vic,-37.7248775,144.735733,House,4,2,710000,AUSD,White Knight Estate Agents
+7,Jackson,Pl,Caroline Springs,3023,Vic,-37.7504774,144.7369558,House,5,3,1450000,AUHB,Reliance Caroline Springs Pty Ltd
+5,Nullarbor,Pl,Caroline Springs,3023,Vic,-37.7452971,144.725179,House,4,2,868000,AUSD,White Knight Estate Agents
+7,Smethwick,Grn,Caroline Springs,3023,Vic,-37.7409754,144.7293833,House,4,2,770000,AUSD,Sweeney Caroline Springs
+28,The Grange,,Caroline Springs,3023,Vic,-37.7343639,144.7324937,House,4,2,1181500,AUSP,N7 Real Estate Caroline Springs
+5,Anderson,St,Caulfield North,3161,Vic,-37.8810184,145.0242336,Unit,3,1,675000,AUVB,Gary Peer
+11,Carnarvon,Rd,Caulfield North,3161,Vic,-37.8684106,145.0287974,House,3,1,N/A,AUPN,Marshall White Stonnington
+4A,Raymond,Gr,Caulfield South,3162,Vic,-37.8999913,145.0186488,House,2,1,N/A,AUSP,Gary Peer
+44,Kierens,Wy,Chadstone,3148,Vic,-37.8852712,145.1057837,House,2,1,N/A,AUPI,BP Monash
+7,Moona,Ct,Chadstone,3148,Vic,-37.8804259,145.0970039,Townhouse,4,2,N/A,AUPI,HAR First
+37,Ella,Gr,Chelsea,3196,Vic,-38.0429407,145.1216122,House,3,2,1240000,AUSD,Buxton Chelsea
+29,Embankment,Gr,Chelsea,3196,Vic,-38.0477763,145.1182502,Unit,2,1,685000,AUSP,Area Specialist Keysborough
+20,Armistan,Cr,Chelsea Heights,3196,Vic,-38.0323862,145.1323024,House,4,2,1200000,AUSD,Property One Sales & Management PTY
+27,Heather,Gr,Cheltenham,3192,Vic,-37.960668,145.049728,Unit,2,1,568000,AUSD,Buxton Mentone
+4,Moonda,Gr,Cheltenham,3192,Vic,-37.9685326,145.0672335,House,4,2,1415000,AUSA,Ray White Cheltenham
+10,Mulberry,Av,Cheltenham,3192,Vic,-37.9555809,145.0676545,Townhouse,3,2,862000,AUSD,Ray White Cheltenham
+1,Nova,Ct,Cheltenham,3192,Vic,-37.9619087,145.0770553,House,4,2,1650000,AUSP,Greg Hocking Bayside Living
+9-Nov,Radcliff,Av,Cheltenham,3192,Vic,-37.9598762,145.0592919,Unit,2,1,685000,AUSD,Ray White Cheltenham
+7,Alkira,Cl,Clarinda,3169,Vic,-37.93653,145.1016147,House,3,2,1185000,AUSP,Buxton Oakleigh
+9,Colonel,St,Clayton,3168,Vic,-37.9198658,145.1168433,Unit,3,2,N/A,AUPI,Darras & Zervas Estate Agents
+17,Fortuna,St,Clayton,3168,Vic,-37.9195979,145.1292629,Townhouse,3,2,830000,AUSD,FN JXRE
+56,Jaguar,Dr,Clayton,3168,Vic,-37.9269881,145.1319699,Unit,3,2,780000,AUSD,RW Clayton
+22,Panorama,St,Clayton,3168,Vic,-37.9191269,145.1302994,Townhouse,3,2,N/A,AUPI,RW Clayton
+9,Stockdale,Av,Clayton,3168,Vic,-37.9077031,145.126095,House,6,2,1530000,AUSD,RW Colyton
+7,Amos,Ct,Clayton South,3169,Vic,-37.9569532,145.1354905,House,3,1,800000,AUSD,RW Clayton
+6,Botanic,Dr,Clayton South,3169,Vic,-37.9395096,145.1364086,Townhouse,3,2,838000,AUSD,HAR First
+4,Scott,Av,Clayton South,3169,Vic,-37.9490312,145.1377343,House,3,1,N/A,AUSD,Ray White Carnegie
+31,Dally,St,Clifton Hill,3068,Vic,-37.7924122,144.9989326,House,3,2,1686000,AUSD,Nelson Alexander Commercial
+30,Grant,St,Clifton Hill,3068,Vic,-37.7892177,144.9965654,House,2,1,N/A,AUPN,Nelson Alexander Commercial
+8,Myrtle,St,Clifton Hill,3068,Vic,-37.7921918,144.9965331,House,3,1,1800000,AUHB,Jellis Craig Fitzroy
+122-138,Roseneath,St,Clifton Hill,3068,Vic,-37.7933487,144.999137,Townhouse,3,2,N/A,AUPN,Nelson Alexander Commercial
+4,Brown,St,Coburg,3058,Vic,-37.7474368,144.9648082,House,2,1,813000,AUSP,Barry Plant Coburg
+12,Clifton,Gr,Coburg,3058,Vic,-37.7392868,144.9577204,House,5,2,1400000,AUHB,Del Monte Real Estate - East Ivanhoe
+2A,Coburg,St,Coburg,3058,Vic,-37.7504398,144.9704552,House,2,1,885000,AUSD,Nelson Alexander ; Coburg
+48,Coburg,St,Coburg,3058,Vic,-37.7462752,144.9713157,Townhouse,4,2,N/A,AUSD,Jellis Craig Brunswick
+194,Gordon,St,Coburg,3058,Vic,-37.7409245,144.9500633,House,2,1,N/A,AUPI,Barry Plant Coburg
+61,Huntington,Gr,Coburg,3058,Vic,-37.7470628,144.9760058,House,4,2,1605000,AUSD,Nelson Alexander ; Coburg
+115,The Avenue,,Coburg,3058,Vic,-37.7527773,144.971746,House,3,2,1400000,AUSP,Barry Plant Coburg
+62,Elizabeth,St,Coburg North,3058,Vic,-37.7351613,144.9832535,House,2,1,782500,AUSD,Woodards
+15,Mashoobra,St,Coburg North,3058,Vic,-37.7220286,144.9557415,House,3,2,N/A,AUPI,Barry Plant Coburg
+72,Lauriston,Dr,Coldstream,3770,Vic,-37.7309216,145.3861125,House,4,2,825000,AUVB,Appleby Real Estate
+41,Campbell,St,Collingwood,3066,Vic,-37.8030421,144.9888832,House,2,1,N/A,AUPI,Jellis Craig Fitzroy
+16,Dight,St,Collingwood,3066,Vic,-37.8033926,144.9885174,House,2,1,N/A,AUSP,Belle Property Armadale
+7,Langridge,St,Collingwood,3066,Vic,-37.8064889,144.9840862,House,3,3,1430000,AUSD,Nelson Alexander Commercial
+75,Little Oxford,St,Collingwood,3066,Vic,-37.8035552,144.9841817,House,3,2,N/A,AUSD,Jellis Craig Fitzroy
+10,Cardiff,Ct,Craigieburn,3064,Vic,-37.6092705,144.9259564,House,3,2,632000,AUSD,Eview Group
+24,Corringa,Wy,Craigieburn,3064,Vic,-37.586173,144.9155287,House,3,2,708000,AUSD,HAR Rata & Co
+9,Gateshead,St,Craigieburn,3064,Vic,-37.5705485,144.9050809,House,3,2,625000,AUSD,Ray White Epping
+22,Kangaroo,Rd,Craigieburn,3064,Vic,-37.5684852,144.9006533,House,3,2,620250,AUSD,YPA EA Craigieburn
+21,Peppertree,Pde,Craigieburn,3064,Vic,-37.5679987,144.9077035,House,4,2,652500,AUSD,Di Battista Real Estate
+7,Spotted Gum,Ct,Craigieburn,3064,Vic,-37.5814412,144.9226477,House,4,2,N/A,AUPI,Di Battista Real Estate
+19,Vulcan,Dr,Craigieburn,3064,Vic,-37.6057003,144.9067393,House,4,2,N/A,AUPI,Ray White Craigieburn
+1,Walton,Cl,Craigieburn,3064,Vic,-37.6054669,144.9360413,House,3,2,655000,AUSD,HAR Hume
+22,Waterford,Av,Craigieburn,3064,Vic,-37.609127,144.9225162,House,4,2,N/A,AUPI,Skad Real Estate Thomastown
+46,Earlston,Cct,Cranbourne,3977,Vic,-38.1228788,145.2844814,House,2,2,1325000,AUSD,O'Brien Real Estate
+44,Balmain,St,Cremorne,3121,Vic,-37.8300454,144.9924092,House,2,1,N/A,AUHB,B&S Richmond
+133,Cubitt,St,Cremorne,3121,Vic,-37.8306473,144.9921902,Townhouse,3,3,1460000,AUSD,Jellis Craig Richmond & Surrounds
+13,Columbia,Av,Croydon,3136,Vic,-37.7956307,145.2704042,House,4,3,N/A,AUPI,McGrath Croydon
+3a,Robinson,St,Croydon,3136,Vic,-37.7936163,145.2573222,House,3,2,990000,AUSD,Noel Jones Ringwood & Croydon
+65,Exeter,Rd,Croydon North,3136,Vic,-37.7698353,145.2905491,House,4,2,710000,AUSD,McGrath Croydon
+65a,Exeter,Rd,Croydon North,3136,Vic,-37.7698353,145.2905491,House,4,2,460000,AUSD,McGrath Croydon
+42,Faraday,Rd,Croydon South,3136,Vic,-37.8160416,145.2737722,House,3,1,N/A,AUPI,McGrath Croydon
+8,Fair,Cr,Dandenong North,3175,Vic,-37.9618501,145.2234393,House,4,2,N/A,AUSN,@Realty
+2,Haddon,Grn,Derrimut,3026,Vic,-37.7866803,144.7577892,House,4,2,880000,AUSD,S&L Deer Park
+11,Moray,St,Diamond Creek,3089,Vic,-37.6782205,145.1470614,House,4,2,887000,AUSD,Darren Jones Real Estate
+1,Greenview,Cl,Dingley Village,3172,Vic,-37.9812414,145.1292418,House,5,2,1145000,AUSD,BP Bayside
+3,Shepherd,Ct,Dingley Village,3172,Vic,-37.9788965,145.1353696,House,3,2,1000000,AUSD,Buxton Real Estate Dingley Village
+33-71,Spencer,St,Docklands,3008,Vic,-37.8200461,144.9542894,Unit,3,1,1150000,AUSD,Jellis Craig Port Phillip Pty Ltd
+19,Cockaigne,St,Doncaster,3108,Vic,-37.7889781,145.1349537,House,6,3,N/A,AUPN,Marshall White Manningham Pty Ltd
+3,Firth,St,Doncaster,3108,Vic,-37.7861581,145.1232932,Unit,2,1,665000,AUSD,Noel Jones Doncaster
+3,Margot,Av,Doncaster,3108,Vic,-37.7714936,145.1338977,House,3,2,1500000,AUSD,Philip Webb Doncaster
+24,Andersons Creek,Rd,Doncaster East,3109,Vic,-37.7760974,145.1673852,House,4,2,1730000,AUSP,Barry Plant Manningham
+15,Devlaw,Dr,Doncaster East,3109,Vic,-37.76673943,145.1740781,House,5,3,1515000,AUSD,Barry Plant Manningham
+19,Harry,St,Doncaster East,3109,Vic,-37.7956326,145.1644459,House,3,1,1280000,AUSP,Barry Plant Manningham
+4,Maxia,Rd,Doncaster East,3109,Vic,-37.7980684,145.1586027,House,4,2,1568000,AUSD,Barry Plant Manningham
+7,Red Hill,Tce,Doncaster East,3109,Vic,-37.76376,145.1725346,Unit,2,1,477000,AUSD,Jellis Craig Whitehorse
+36,Ross,St,Doncaster East,3109,Vic,-37.7906739,145.1488146,Townhouse,3,2,1190000,AUSA,FN Real Estate Janssen & Co
+19,Talford,St,Doncaster East,3109,Vic,-37.7904131,145.1655024,Townhouse,4,3,1400000,AUSP,Fletchers Manningham
+12,Thomas,St,Doncaster East,3109,Vic,-37.7962203,145.1631522,House,5,2,1698000,AUSD,Fletchers Manningham
+48,Thomas,St,Doncaster East,3109,Vic,-37.7989438,145.1649205,Unit,2,1,810000,AUSP,Barry Plant Manningham
+79,Lisbeth,Av,Donvale,3111,Vic,-37.8023686,145.1996429,House,3,1,1430000,AUSP,Jellis Craig Doncaster
+11,Oregon,Dr,Donvale,3111,Vic,-37.7924537,145.1721009,House,3,1,1365000,AUSP,Jellis Craig Doncaster
+6,Ruth,St,Donvale,3111,Vic,-37.7982248,145.1716889,Unit,3,1,N/A,AUPI,Jellis Craig Doncaster
+158,Cookes,Rd,Doreen,3754,Vic,-37.6004662,145.1223597,House,4,2,686000,AUSP,Barry Plant Drouin
+19,Lythrum,St,Doreen,3754,Vic,-37.6000037,145.1249371,House,3,2,675000,AUSD,Ray White Bundoora
+95,Latrobe,Pde,Dromana,3936,Vic,-38.3434299,144.9438477,House,4,3,1970000,AUSD,Belle Property Dromana
+19,Young,St,Drouin,3818,Vic,-38.1360103,145.8619963,House,3,1,N/A,AUVB,OBrien Real Estate Clark
+165,Hotham,St,East Melbourne,3002,Vic,-37.814235,144.984568,Unit,2,1,800000,AUHB,Nelson Alexander Commercial
+102-104,Jolimont,St,East Melbourne,3002,Vic,-37.8164292,144.9789176,Unit,3,2,1170000,AUSD,Jellis Craig Fitzroy
+171,Simpson,St,East Melbourne,3002,Vic,-37.810482,144.9886,House,2,1,2150000,AUHB,Kay & Burton - Hawthorn
+45,Prentice,St,Elsternwick,3185,Vic,-37.8832231,145.0142242,House,5,2,2350000,AUSD,Gary Peer
+66,Riddell,Pde,Elsternwick,3185,Vic,-37.8888874,145.0045819,Unit,2,1,730000,AUVB,Jellis Craig Stonnington
+114,Brougham,St,Eltham,3095,Vic,-37.7235746,145.1513585,House,3,1,890000,AUVB,Jellis Craig - Eltham
+33,Scenic,Cr,Eltham North,3095,Vic,-37.7046283,145.1441189,House,4,3,N/A,AUSD,Morrison Kleeman E A
+42,Snowball,Rd,Eltham North,3095,Vic,-37.7028004,145.131742,House,3,2,1175000,AUVB,Jellis Craig Greensborough
+15,Beach,Av,Elwood,3184,Vic,-37.8855558,144.9860106,Unit,2,1,751000,AUSD,Chisholm & Gamon Property - Elwood
+Dec-14,Dickens,St,Elwood,3184,Vic,-37.8712168,144.986527,Unit,2,1,N/A,AUHB,Jellis Craig Port Phillip Pty Ltd
+8A,Dickens,St,Elwood,3184,Vic,-37.8709544,144.9870434,Unit,3,1,1200000,AUSD,McGrath St Kilda
+5,Milton,St,Elwood,3184,Vic,-37.8741797,144.9894534,Unit,2,1,500000,AUVB,Gary Peer
+54,Milton,St,Elwood,3184,Vic,-37.8755667,144.984569,House,2,1,N/A,AUPI,Chisholm & Gamon Property - Elwood
+55,Daniel Solander,Dr,Endeavour Hills,3802,Vic,-37.9778168,145.2571064,House,4,3,985000,AUSD,RW Dandenong
+61,David Collins,Dr,Endeavour Hills,3802,Vic,-37.9921598,145.2687203,House,4,3,975500,AUSD,RW Dandenong
+7,Banker,Ct,Epping,3076,Vic,-37.6501553,145.0481102,House,3,1,610000,AUSD,HAR Rata & Co
+20,Frewin,St,Epping,3076,Vic,-37.6307095,145.0090155,House,4,2,620000,AUSD,Mann Estate Agents
+100,Loxton,Tce,Epping,3076,Vic,-37.6415151,145.059911,House,3,2,670000,AUHB,HAR Rata & Co
+32,Rockfield,St,Epping,3076,Vic,-37.6295706,145.0071645,House,3,2,N/A,AUSP,RW Mernda
+51,Shields,St,Epping,3076,Vic,-37.6242809,145.0099194,House,4,2,715000,AUSP,BP Epping
+3,Sorrento,Pl,Epping,3076,Vic,-37.6410571,145.0214782,House,4,2,693500,AUSD,Capital & Co. Real Estate
+18,Agatha,St,Essendon,3040,Vic,-37.7549514,144.9246363,Unit,2,1,N/A,AUPN,Nelson Alexander Essendon
+9,Ardoch,St,Essendon,3040,Vic,-37.7493858,144.9201413,Unit,2,1,650000,AUSP,Nelson Alexander Essendon
+120,Buckley,St,Essendon,3040,Vic,-37.756554,144.914909,Unit,2,2,N/A,AUSD,Brad Teal Woodards Essendon
+10,Cooper,St,Essendon,3040,Vic,-37.7534351,144.8974662,Unit,2,2,800500,AUSD,Alexkarbon Real Estate
+18,Cooper,St,Essendon,3040,Vic,-37.7527422,144.8975808,Townhouse,2,2,756000,AUSP,Barry Plant Essendon
+60,Glass,St,Essendon,3040,Vic,-37.7463815,144.9177002,House,4,3,2752000,AUSD,Brad Teal Woodards Essendon
+28,Lawson,St,Essendon,3040,Vic,-37.7582187,144.9324332,Unit,2,1,851000,AUSD,Nelson Alexander Essendon
+46A,Market,St,Essendon,3040,Vic,-37.7441972,144.9054248,House,4,1,N/A,AUSP,Rendina Real Estate
+239,Pascoe Vale,Rd,Essendon,3040,Vic,-37.75302,144.925161,Townhouse,3,2,800000,AUSP,Barry Plant Essendon
+87,Spencer,St,Essendon,3040,Vic,-37.7457991,144.895752,Townhouse,2,1,N/A,AUSP,Burnham Real Estate
+2,Keam,St,Essendon North,3041,Vic,-37.7393935,144.9001584,House,3,1,1550000,AUSD,MATTHEWS
+7,Raleigh,Gr,Essendon North,3041,Vic,-37.7378207,144.9026733,House,4,3,1400000,AUSD,Brad Teal Woodards Essendon
+19,Hampton,Rd,Essendon West,3040,Vic,-37.7511533,144.8874557,House,2,1,N/A,AUSP,Jellis Craig Moonee Valley
+3,Lily,St,Essendon West,3040,Vic,-37.7535478,144.8821045,House,4,2,N/A,AUSA,Brad Teal Woodards Essendon
+27,View,St,Essendon West,3040,Vic,-37.7542018,144.8828996,House,3,1,1660000,AUSP,Nelson Alexander Essendon
+29,Rathmines,St,Fairfield,3078,Vic,-37.7810985,145.0159119,Villa,2,1,763000,AUSD,Jellis Craig Northcote
+67,Rathmines,St,Fairfield,3078,Vic,-37.7776486,145.0163336,House,3,1,N/A,AUSD,Nelson Alexander Northcote
+193,Wingrove,St,Fairfield,3078,Vic,-37.7788514,145.0206386,House,4,1,2010000,AUSP,Nelson Alexander Northcote
+224,Arthur,St,Fairfield,3078,Vic,-37.7696922,145.0203095,Townhouse,3,1,925000,PTSD,McGrath Northcote
+34,Frederick,St,Fawkner,3060,Vic,-37.7089825,144.971789,House,3,1,685000,AUSD,RW Coburg
+4,Mutton,Rd,Fawkner,3060,Vic,-37.7150016,144.9679472,House,3,1,760000,AUSD,Eview Group - C+M Residential
+17,Adele,Av,Ferntree Gully,3156,Vic,-37.8843918,145.2767516,House,3,1,800000,AUSA,Ray White Ferntree Gully
+21,Dobson,St,Ferntree Gully,3156,Vic,-37.8805065,145.2643163,House,5,3,956000,AUSD,Ray White Ferntree Gully
+18,Hancock,Dr,Ferntree Gully,3156,Vic,-37.893252,145.2788675,House,4,2,1231000,AUSD,RW Rowville
+85,Linda,Cr,Ferntree Gully,3156,Vic,-37.8749686,145.2689362,House,3,1,800000,AUSA,Ray White Ferntree Gully
+20,Lydford,Rd,Ferntree Gully,3156,Vic,-37.8873106,145.2730381,House,3,1,800000,AUSA,Ray White Ferntree Gully
+1,Piperita,Rd,Ferntree Gully,3156,Vic,-37.8729491,145.2612941,House,6,2,845500,AUSD,Ray White Ferntree Gully
+106,Charles,St,Fitzroy,3065,Vic,-37.803503,144.983088,House,3,1,1350000,AUSD,Kay & Burton South Yarra
+109,Leicester,St,Fitzroy,3065,Vic,-37.795337,144.979931,House,2,1,1113000,AUSD,Jellis Craig Fitzroy
+121,Moor,St,Fitzroy,3065,Vic,-37.801566,144.978938,House,2,1,1300000,AUSD,Nelson Alexander Commercial
+763,Brunswick,St,Fitzroy North,3068,Vic,-37.7838474,144.9810833,House,2,1,N/A,AUSP,Nelson Alexander Commercial
+815,Brunswick,St,Fitzroy North,3068,Vic,-37.7823165,144.9814596,House,3,2,2826000,AUSD,R&H Ascot Vale
+840,Brunswick,St,Fitzroy North,3068,Vic,-37.7817166,144.9819332,House,4,2,2252000,AUSD,Nelson Alexander Commercial
+18,Mark,St,Fitzroy North,3068,Vic,-37.7845113,144.9857309,House,4,2,N/A,AUSD,Jellis Craig Fitzroy
+18,Rae,St,Fitzroy North,3068,Vic,-37.7924352,144.9786306,House,3,1,1400000,AUHB,Woodards
+55,Princes,St,Flemington,3031,Vic,-37.7863519,144.9334178,House,2,1,1020000,AUSP,Nelson Alexander Flemington
+50,Moore,St,Footscray,3011,Vic,-37.798065,144.903593,Townhouse,2,1,670000,AUVB,Jas Stephens Real Estate Yarraville
+1,Wingfield,St,Footscray,3011,Vic,-37.8016983,144.9069726,House,4,1,N/A,AUHB,Buxton Inner West
+11,Golden Glen,Rd,Forest Hill,3131,Vic,-37.8439582,145.1610607,House,4,2,1693000,AUSD,Fletchers Blackburn
+242A,Heatherhill,Rd,Frankston,3199,Vic,-38.1666957,145.1603707,House,3,1,N/A,AUPI,Ray White Frankston
+2,Helvetia,Ct,Frankston,3199,Vic,-38.1619501,145.1335526,House,3,1,735000,AUHB,Eview Group
+8,Kitara,Ct,Frankston,3199,Vic,-38.1571333,145.1555411,House,4,3,N/A,AUPN,HS Frankston
+29,Meerlu,Av,Frankston,3199,Vic,-38.1467999,145.1572012,House,3,1,N/A,AUHB,HS Frankston
+4,Napier,Ct,Frankston,3199,Vic,-38.143809,145.168586,House,3,2,845000,AUSD,Ray White Carnegie
+15,Tara,Dr,Frankston,3199,Vic,-38.1589876,145.1248019,House,4,2,1255000,AUSD,Ray White Frankston
+77,Warrawee,Cct,Frankston,3199,Vic,-38.1331569,145.1653299,House,3,2,842000,AUSD,Ray White Frankston
+12,Cricklewood,Av,Frankston,,,,,House,3,,760000,PTSD,O'Brien Real Estate
+435,Nepean,Hwy,Frankston,,,,,Unit,1,,171000,PTSD,O'Brien Real Estate
+435,Nepean,Hwy,Frankston,,,,,Unit,1,,242500,PTSD,O'Brien Real Estate
+10,Darley,Ct,Frankston North,3200,Vic,-38.1166671,145.1562741,House,4,2,752000,AUHB,HS Frankston
+83,Brunning,Cr,Frankston North,3200,Vic,-38.1235184,145.1605001,House,2,1,618000,PTSD,O'Brien Real Estate
+16,Ribbon,Ct,Frankston North,3200,Vic,-38.1228821,145.156104,Unit,3,2,587000,PTSD,O'Brien Real Estate
+8,Tallowwood,St,Frankston North,,,,,House,3,,651000,PTSD,O'Brien Real Estate
+2,Fleetwood,Cr,Frankston South,3199,Vic,-38.1615122,145.1043972,House,3,2,1215000,AUSD,Eview Group
+44,Burnleigh,Dr,Gladstone Park,3043,Vic,-37.6929431,144.8921841,House,4,1,740000,AUSP,Barry Plant Gladstone Park
+15,Manchester,Gr,Glen Huntly,3163,Vic,-37.887862,145.040701,Unit,2,2,N/A,AUSP,Woodards Carnegie
+22,Aintree,Rd,Glen Iris,3146,Vic,-37.8565456,145.0442433,Unit,2,1,N/A,AUSP,Jellis Craig Stonnington
+34,Edgar,St,Glen Iris,3146,Vic,-37.8550669,145.0458494,Unit,3,1,N/A,AUPN,Marshall White Balwyn
+12,Grandview,Rd,Glen Iris,3146,Vic,-37.8623815,145.055001,House,4,3,N/A,AUSD,Marshall White Stonnington
+37,Hilltop,Av,Glen Iris,3146,Vic,-37.8659427,145.0738243,House,4,2,N/A,AUSN,WHITEFOX Real Estate - Brighton
+9,Richards,Av,Glen Iris,3146,Vic,-37.8520678,145.0617848,House,3,1,N/A,AUSP,Fellowship Kew
+8,Rowen,St,Glen Iris,3146,Vic,-37.8581159,145.0861889,House,4,2,N/A,AUSD,Jellis Craig - Boroondara
+12,Straughan,St,Glen Iris,3146,Vic,-37.8499984,145.078757,House,4,3,1900000,AUSD,Shelter Real Estate
+4,Webb,St,Glen Iris,3146,Vic,-37.8492141,145.0664582,House,4,2,3000000,AUVB,Marshall White Stonnington
+88,Blackburn,Rd,Glen Waverley,3150,Vic,-37.8709762,145.1491166,House,4,1,N/A,AUSN,HAR Judd White
+32,Maylands,Cr,Glen Waverley,3150,Vic,-37.9038878,145.1716696,House,5,2,1390000,AUSD,RW Oakleigh
+25,Pippin,Av,Glen Waverley,3150,Vic,-37.8676665,145.1500219,House,4,3,1650000,AUVB,Residence Real Estate
+3,Watsons,Rd,Glen Waverley,3150,Vic,-37.8901767,145.1699876,Unit,3,2,1017000,AUSD,Jellis Craig Monash
+30,Churchill,St,Glenroy,3046,Vic,-37.7003538,144.9208607,Townhouse,4,2,830888,AUSD,Barry Plant Glenroy
+64,Langton,St,Glenroy,3046,Vic,-37.6976114,144.9143376,Townhouse,3,1,655000,AUSP,Eview Group - C+M Residential
+4,Melbourne,Av,Glenroy,3046,Vic,-37.7045401,144.9383746,House,3,1,850000,AUHB,S&L Glenroy
+59,Morell,St,Glenroy,3046,Vic,-37.7021677,144.9465361,House,3,1,900000,AUSP,S&L Glenroy
+16,Hannah Pascoe,Dr,Gowanbrae,3043,Vic,-37.706264,144.8985892,House,5,2,1380000,AUSP,Nelson Alexander Essendon
+7,Echuca,Rd,Greensborough,3088,Vic,-37.708948,145.106731,Unit,2,2,733000,AUSD,Haughton Stotts Real Estate
+197,Nepean,St,Greensborough,3088,Vic,-37.7132597,145.104933,House,4,2,880000,AUSP,Darren Jones Real Estate
+227-229,Nepean,St,Greensborough,,,,,Unit,2,,335000,PTSD,Darren Jones Real Estate
+14,Palazzo,Ct,Greenvale,3059,Vic,-37.6540623,144.8991266,House,5,2,1040000,AUSP,Barry Plant Gladstone Park
+20,Peter,St,Grovedale,3216,Vic,-38.2058968,144.337898,House,3,1,N/A,AUSP,BP Real Estate Highton
+91,Middle,St,Hadfield,3046,Vic,-37.7100254,144.9435251,House,3,1,950000,AUVB,HAR Coburg
+4,Rubicon,Ct,Hallam,3803,Vic,-38.0141095,145.2771402,House,4,2,N/A,AUPI,HockingStuart Dandenong
+28,Sladen,St,Hamlyn Heights,3215,Vic,-38.1258054,144.3203518,House,3,1,N/A,AUPN,Belle Property Geelong
+33,Vines,Rd,Hamlyn Heights,3215,Vic,-38.126058,144.3276089,House,3,1,710000,AUSD,Hayeswinckle East Geelong
+95,Highett,Rd,Hampton,3188,Vic,-37.9461509,145.0214782,Unit,2,1,N/A,AUSP,Buxton Sandringham
+5,Kanowna,St,Hampton,3188,Vic,-37.9438939,145.0098333,House,4,2,N/A,AUSP,Hodges Sandringham
+60,Ludstone,St,Hampton,3188,Vic,-37.9340722,145.009941,House,5,3,N/A,AUPI,Belle Property Sandringham
+66,Raynes Park,Rd,Hampton,3188,Vic,-37.9372865,145.0195771,House,3,3,N/A,AUPI,Belle Property Sandringham
+42,Sargood,St,Hampton,3188,Vic,-37.9418252,145.0114691,House,5,3,N/A,AUSN,Belle Property Sandringham
+18,Kelsall,Ct,Hampton East,3188,Vic,-37.9423374,145.0317252,House,4,1,N/A,AUSD,Jellis Craig - Brighton
+58A,Widdop,Cr,Hampton East,3188,Vic,-37.940242,145.0298458,House,4,2,650000,AUHB,Hodges Sandringham
+70,Church,St,Hawthorn,3122,Vic,-37.8153052,145.0210264,Unit,3,1,650000,AUSP,B&S Richmond
+103,Kooyongkoot,Rd,Hawthorn,3122,Vic,-37.8369298,145.0378249,House,3,3,N/A,AUSD,Belle Property Armadale
+59,Kooyongkoot,Rd,Hawthorn,3122,Vic,-37.8337418,145.0385501,House,4,2,2500000,AUVB,Marshall White Balwyn
+8,Little Church,St,Hawthorn,3122,Vic,-37.8134952,145.0216713,Townhouse,3,2,1825000,AUHB,Marshall White Balwyn
+177,Power,St,Hawthorn,3122,Vic,-37.8265035,145.025805,Unit,2,1,N/A,AUSD,Woodards Camberwell
+22,Wattle,Rd,Hawthorn,3122,Vic,-37.8250207,145.0277855,Unit,2,2,N/A,AUSD,Marshall White Balwyn
+8,Coppin,Gr,Hawthorn,3122,Vic,-37.8216397,145.0170009,Unit,3,1,N/A,PTSD,RT Edgar Toorak
+789-791,Burwood,Rd,Hawthorn East,3123,Vic,-37.8242427,145.0519,Unit,2,1,N/A,AUSD,Woodards Camberwell
+1,Carnarvon,St,Hawthorn East,3123,Vic,-37.8289186,145.0478087,House,3,2,2508000,AUSP,Marshall White Balwyn
+25,Cole,St,Hawthorn East,3123,Vic,-37.8352703,145.0495313,House,4,3,N/A,AUSD,Anton Zhouk
+386,Riversdale,Rd,Hawthorn East,3123,Vic,-37.8310922,145.0522876,House,3,1,N/A,AUPI,Woodards Camberwell
+45-47,St Helens,Rd,Hawthorn East,3123,Vic,-37.8363678,145.0508818,House,4,2,3250000,AUHB,Woodards Camberwell
+423,Tooronga,Rd,Hawthorn East,3123,Vic,-37.8389483,145.045677,Unit,2,1,578000,AUSD,Fletchers Balwyn North
+154,Victoria,Rd,Hawthorn East,3123,Vic,-37.8235753,145.0562932,House,5,4,N/A,AUVB,Abercromby's Real Estate
+88-92,Victoria,Rd,Hawthorn East,3123,Vic,-37.8228759,145.0515043,Unit,2,1,N/A,AUSP,Marshall White Balwyn
+3,Cartmell,St,Heidelberg,3084,Vic,-37.7554071,145.0666735,Unit,2,1,620000,PTSD,Miles Real Estate Ivanhoe
+104,Bamfield,Rd,Heidelberg Heights,3081,Vic,-37.7355809,145.0567015,House,3,2,720000,AUSP,Noel Jones Blackburn
+82,Dresden,St,Heidelberg Heights,3081,Vic,-37.7466332,145.0560777,House,4,1,1300000,AUVB,Nelson Alexander Ivanhoe
+26,Dalmont,St,Highett,3190,Vic,-37.9487885,145.0258401,Unit,2,1,700000,AUSP,Buxton Bentleigh
+6,Hazel,Av,Highett,3190,Vic,-37.9451185,145.031919,House,3,1,N/A,AUPI,Buxton Sandringham
+132B,Highett,Rd,Highett,3190,Vic,-37.9470352,145.0253399,House,3,2,1600000,AUSD,Hodges Sandringham
+17,Matthieson,St,Highett,3190,Vic,-37.9542953,145.0515981,House,3,1,N/A,AUSD,Buxton Hampton East
+56,Matthieson,St,Highett,3190,Vic,-37.9564781,145.0526322,Townhouse,4,3,N/A,AUVB,Ray White Cheltenham
+41,Middleton,St,Highett,3190,Vic,-37.949219,145.0392821,House,5,5,3150000,AUHB,Buxton Bentleigh
+49,Spring,Rd,Highett,3190,Vic,-37.9444773,145.0323926,House,3,1,1240000,AUSD,Buxton Hampton East
+5,Wickenby,Ct,Highton,3216,Vic,-38.1914906,144.3179827,House,4,2,1372500,AUSD,Buxton - Highton
+2,Apollo,Ct,Hillside,3037,Vic,-37.6841083,144.7410748,House,3,2,860000,AUSD,White Knight Estate Agents
+63,Bourke,Cr,Hoppers Crossing,3029,Vic,-37.8689648,144.685249,House,3,2,655000,AUSD,Ray White Werribee
+92,Derrimut,Rd,Hoppers Crossing,3029,Vic,-37.8801475,144.6828478,House,3,1,1100000,AUSP,YPA Estate Agents Wyndham City
+22,Yandina,Rd,Hoppers Crossing,3029,Vic,-37.859452,144.681484,House,3,1,420000,AUSD,YPA Estate Agents Wyndham City
+13,Fintonia,St,Hughesdale,3166,Vic,-37.9032964,145.0768614,House,4,2,N/A,AUSN,Ray White Carnegie
+103,Willesden,Rd,Hughesdale,3166,Vic,-37.897496,145.085914,Townhouse,2,1,846000,AUSD,Ray White Carnegie
+13,Golf View,Dr,Invermay Park,3350,Vic,-37.5303413,143.8589747,House,4,2,710000,AUHB,Ray White Ballarat
+128,Green,St,Ivanhoe,3079,Vic,-37.7634721,145.0293786,House,3,1,1600000,AUVB,Nelson Alexander Ivanhoe
+383,Upper Heidelberg,Rd,Ivanhoe,3079,Vic,-37.7589346,145.0525591,Townhouse,3,2,1160000,AUVB,Fletchers Canterbury
+1,Vinct,Cl,Keilor Downs,3038,Vic,-37.7137965,144.8025419,House,4,2,850000,AUSD,Nicole Gervasi Real Estate
+18,Armstrong,Cl,Keilor East,3033,Vic,-37.7358505,144.8587047,House,4,2,N/A,AUPI,Barry Plant Keilor East
+75,Lincoln,Dr,Keilor East,3033,Vic,-37.7427577,144.8681583,House,4,1,1164000,AUSP,Moonee Valley Real Estate
+81,Milleara,Rd,Keilor East,3033,Vic,-37.7360157,144.8641189,House,4,2,1190000,AUSP,Barry Plant Coburg
+42,The Crossway,,Keilor East,3033,Vic,-37.7462712,144.8621852,House,3,1,960000,AUSD,Nelson Alexander Keilor East
+100-102,Fairbairn,Dr,Kensington,3031,Vic,-37.7973575,144.9199582,House,4,2,1670000,AUSD,Edward Thomas
+16,Gardner,La,Kensington,3031,Vic,-37.7920532,144.9223472,House,3,2,1223000,AUSA,Belle Property Carlton
+60,Campbell,St,Kew,3101,Vic,-37.8023056,145.05625,House,3,1,N/A,AUPN,Marshall White Balwyn
+7,Churchill,St,Kew,3101,Vic,-37.79995,145.045442,Unit,2,1,700000,AUVB,Nelson Alexander Kew
+54,Gladstone,St,Kew,3101,Vic,-37.8001398,145.0414352,House,3,2,N/A,AUSD,Nelson Alexander Kew
+37,Heather,Gr,Kew,3101,Vic,-37.8045895,145.0594372,House,4,2,N/A,AUPI,Nelson Alexander Kew
+10,Lytton,St,Kew,3101,Vic,-37.8112565,145.0475718,House,5,4,7575000,AUSP,Marshall White Balwyn
+46,Mary,St,Kew,3101,Vic,-37.8053332,145.0385178,House,3,2,2000000,AUVB,Marshall White Balwyn
+62,Mary,St,Kew,3101,Vic,-37.804657,145.0385032,Unit,2,1,N/A,AUSD,Nelson Alexander Kew
+142,Princess,St,Kew,3101,Vic,-37.7972904,145.0309717,Townhouse,3,3,N/A,AUPI,FN Real Estate Janssen & Co
+12,Clyde,St,Kew East,3102,Vic,-37.7959346,145.0554187,House,4,3,N/A,AUSD,Marshall White Balwyn
+4,Riverside,Dr,Kew East,3102,Vic,-37.7904779,145.0633999,House,4,3,N/A,AUPN,Marshall White Balwyn
+108,Church,Rd,Keysborough,3173,Vic,-38.0019822,145.173048,Townhouse,2,2,678000,AUSD,FN JXRE
+30A,Byron,Rd,Kilsyth,3137,Vic,-37.8047069,145.3042192,House,4,2,875000,AUSD,Philip Webb Ringwood
+127,Gillespie,Rd,Kings Park,3021,Vic,-37.7338641,144.7755586,House,3,1,600000,AUSD,RW St Albans
+5,Cash,St,Kingsbury,3083,Vic,-37.7155967,145.0424687,House,5,2,757000,AUSD,Ray White Bundoora
+28,Belindavale,Dr,Knoxfield,3180,Vic,-37.8829983,145.2400985,House,4,2,N/A,AUSN,Noel Jones Wantirna
+48,Lloyd,St N,Knoxfield,3180,Vic,-37.8874089,145.2540844,House,4,2,N/A,AUSP,Barry Plant Wantirna
+19,Jocelyn,St,Lalor,3075,Vic,-37.6625812,145.0026449,House,3,1,715000,AUSD,Barry Plant Bundoora
+59a,Mosaic,Dr,Lalor,3075,Vic,-37.6652292,144.9910242,House,3,3,640000,AUSP,HAR Rata & Co
+14,Teal,Cr,Lalor,3075,Vic,-37.6617573,145.0169584,Townhouse,3,2,670000,AUSP,HAR Rata & Co
+85,William,St,Lalor,3075,Vic,-37.674157,145.0278717,Townhouse,2,1,520000,AUSD,RW Reservoir
+20-22,Alma,St,Lower Plenty,3093,Vic,-37.7248732,145.1147159,House,3,2,750000,PTSD,Darren Jones Real Estate
+56,Ferguson,St,Macleod,3085,Vic,-37.7280996,145.0744705,House,2,1,922000,AUSD,Nelson Alexander Ivanhoe
+39,Norfolk,St,Maidstone,3012,Vic,-37.7888083,144.8797191,House,3,1,825000,AUHB,Burnham Real Estate
+21a,Richelieu,St,Maidstone,3012,Vic,-37.7903874,144.870845,Townhouse,2,2,720000,AUSP,Trimson Partners
+19,Eva,St,Malvern,3144,Vic,-37.8557662,145.0373013,House,3,2,N/A,AUSP,RT Edgar Toorak
+2B,Northbrook,Av,Malvern,3144,Vic,-37.8568119,145.0330805,House,3,2,N/A,AUSD,Kay & Burton Armadale
+42,Burke,Rd,Malvern East,3145,Vic,-37.8744665,145.0488581,Unit,2,1,792000,AUSD,Gary Peer
+29,Grant,St,Malvern East,3145,Vic,-37.8715494,145.0523772,Unit,2,1,850000,AUSD,Belle Property Caulfield
+3,Villers,Sq,Malvern East,3145,Vic,-37.8832302,145.0632276,House,4,2,N/A,AUSD,Buxton Ashburton
+32,La Scala,Av,Maribyrnong,3032,Vic,-37.7812108,144.8935385,Unit,2,2,N/A,AUPI,RW Brunswick
+8,Hall,St,McKinnon,3204,Vic,-37.9136755,145.0470335,House,4,2,2328000,AUSP,Jellis Craig Bentleigh
+15A,Wattle,Gr,McKinnon,3204,Vic,-37.907931,145.034731,Unit,2,1,N/A,AUSD,Buxton Bentleigh
+14,Melwood,Ct,Meadow Heights,3048,Vic,-37.658139,144.9208607,House,3,1,505000,AUSD,HAR Rata & Co
+1,Roy,St,Melbourne,3004,Vic,-37.8465581,144.977555,Unit,3,2,N/A,AUPN,Marshall White Balwyn
+480,St Kilda,Rd,Melbourne,3004,Vic,-37.84276,144.97706,Unit,3,2,835000,AUSD,Marshall White Balwyn
+14,Corella,Av,Melton,3337,Vic,-37.675028,144.5747386,House,3,1,425000,AUSD,HAR West
+121,Westmelton,Dr,Melton West,3337,Vic,-37.6748525,144.5529455,House,3,1,515000,AUSP,R&H Melton
+5,Conti,Ct,Mentone,3194,Vic,-37.9744932,145.055402,Unit,3,2,N/A,AUVB,Ray White Cheltenham
+30A,Mentone,Pde,Mentone,3194,Vic,-37.989731,145.0651715,House,5,2,1950000,AUVB,Buxton Bentleigh
+81,Warrigal,Rd,Mentone,3194,Vic,-37.9828057,145.0709124,Unit,2,1,510000,AUHB,Buxton Mentone
+34,Newington,Pde,Mernda,3754,Vic,-37.6025344,145.0702047,House,4,2,N/A,AUSN,RW Mernda
+16,Shepherds,Wy,Mernda,3754,Vic,-37.6049706,145.0822036,House,4,2,785000,AUSD,RESIDER Real Estate
+16,Fenwick,Pde,Mickleham,3064,Vic,-37.5316555,144.9102758,House,4,2,875000,AUSD,Ray White Craigieburn
+4,Rangeview,Cl,Mickleham,3064,Vic,-37.5611563,144.8924612,House,4,2,2225000,AUSD,Di Battista Real Estate
+58,Trillium,Bvd,Mickleham,3064,Vic,-37.5675693,144.8925924,House,4,2,800000,AUSD,Real Estate City
+5,Albany,Rd,Mill Park,3082,Vic,-37.6524486,145.0786656,House,2,2,467000,AUSD,Ray White Mill Park
+19,Calwell,Ct,Mill Park,3082,Vic,-37.6602032,145.071455,House,3,1,677500,AUSD,Buckingham & Company
+7,Christie,Av,Mill Park,3082,Vic,-37.6606385,145.0698181,House,3,1,N/A,AUSN,Ray White Mill Park
+2,Coventry,Cr,Mill Park,3082,Vic,-37.6754355,145.0675781,House,4,2,830000,AUSD,Barry Plant Bundoora
+8,Hillcrest,Ct,Mill Park,3082,Vic,-37.6765381,145.0529767,House,4,3,N/A,AUPI,Ray White Bundoora
+23,Kellaway,Cr,Mill Park,3082,Vic,-37.6602892,145.0578436,House,3,2,N/A,AUPI,FN Real Estate Meadow Heights
+17,Church,St,Mitcham,3132,Vic,-37.8171625,145.1978094,House,2,1,N/A,AUSD,Jellis Craig Whitehorse
+47,Dunlavin,Rd,Mitcham,3132,Vic,-37.8126639,145.1856443,Townhouse,4,3,N/A,AUSD,Noel Jones Balwyn
+12,Vernal,Av,Mitcham,3132,Vic,-37.8286685,145.1969446,Unit,4,3,1520000,AUSP,Jellis Craig Whitehorse
+1,Warnes,Rd,Mitcham,3132,Vic,-37.8123071,145.2130397,House,3,2,N/A,AUSN,Fletchers Blackburn
+22,Warnes,Rd,Mitcham,3132,Vic,-37.8136196,145.2113833,House,3,2,N/A,AUSP,Noel Jones Mitcham
+18,Louise,Av,Mont Albert,3127,Vic,-37.8223311,145.1055363,Unit,2,1,N/A,AUSP,Jellis Craig - Boroondara
+21,Wolseley,Cl,Mont Albert,3127,Vic,-37.8190097,145.1031661,House,5,2,N/A,AUSD,Jellis Craig - Boroondara
+537,Elgar,Rd,Mont Albert North,3129,Vic,-37.8087477,145.1162676,House,3,2,1080000,AUSD,Buxton Box Hill
+30,Francesca,St,Mont Albert North,3129,Vic,-37.8041412,145.1067603,Townhouse,3,2,N/A,AUSD,Jellis Craig - Boroondara
+54A,Rostrevor,Pde,Mont Albert North,3129,Vic,-37.8069688,145.1074519,House,4,2,N/A,AUSD,Jellis Craig - Boroondara
+49,Browns,Rd,Montrose,3765,Vic,-37.8114786,145.3617525,House,4,2,1320000,AUHB,Ray White Blackburn
+18,Athol,St,Moonee Ponds,3039,Vic,-37.769905,144.918246,House,4,2,N/A,AUSP,Jellis Craig
+701,Mt Alexander,Rd,Moonee Ponds,3039,Vic,-37.7644929,144.9228602,House,2,2,750000,AUSD,Nelson Alexander Keilor East
+24,Park,St,Moonee Ponds,3039,Vic,-37.7616404,144.9195707,Townhouse,2,1,N/A,AUPI,Jellis Craig Brunswick
+20,Wilson,St,Moonee Ponds,3039,Vic,-37.7635419,144.9337795,Villa,2,1,830000,AUSA,Brad Teal Woodards Essendon
+253,Chesterville,Rd,Moorabbin,3189,Vic,-37.9397923,145.0602986,House,5,2,N/A,AUPI,Buxton Hampton East
+4A,William,St,Moorabbin,3189,Vic,-37.9445924,145.0448127,House,3,2,1321000,AUSD,Buxton Hampton East
+21,Old Kent,Rd,Mooroolbark,3138,Vic,-37.7707015,145.3167251,House,3,1,848000,AUSD,McGrath Croydon
+184,Beach,Rd,Mordialloc,3195,Vic,-38.0047108,145.0815065,House,4,3,2850000,AUSD,Bayside Beaches Real Estate
+60,Elliot,St,Mordialloc,3195,Vic,-37.9971915,145.0960128,Townhouse,2,1,N/A,AUSP,Belle Property Mentone
+17,Autumn,Cr,Mount Eliza,3930,Vic,-38.2031184,145.0950433,House,4,2,1435000,AUSD,Ray White Frankston
+61,Beluga,St,Mount Eliza,3930,Vic,-38.2004368,145.0776584,House,3,2,1450000,AUVB,T J Sparks
+58,Old Mornington,Rd,Mount Eliza,3930,Vic,-38.1754398,145.0940092,House,3,2,1700000,AUHB,Community Real Estate
+70,Tower,Rd,Mount Eliza,3930,Vic,-38.2050258,145.0870368,House,3,2,4660000,AUSD,McEwing Partners
+6,Dallas,St,Mount Waverley,3149,Vic,-37.8803634,145.1201467,House,4,2,N/A,AUVB,Jellis Craig Monash
+77,Lemont,Av,Mount Waverley,3149,Vic,-37.8920991,145.1388983,House,3,2,N/A,AUSD,RW Mount Waverley
+21,Milliara,St,Mount Waverley,3149,Vic,-37.8690457,145.1454515,House,4,2,1558000,AUSD,RW Mount Waverley
+38,Sampson,Dr,Mount Waverley,3149,Vic,-37.8921102,145.1354279,Townhouse,3,2,1205000,AUSD,Buxton Mount Waverley
+289,Waverley,Rd,Mount Waverley,3149,Vic,-37.8837002,145.1223292,Unit,2,1,N/A,AUPI,RW Oakleigh
+15,Rivett,Cr,Mulgrave,3170,Vic,-37.9122169,145.1607588,House,5,3,1218500,AUSD,Buxton Box Hill
+37,Woolwich,Dr,Mulgrave,3170,Vic,-37.9239158,145.1626562,House,3,2,N/A,AUPN,Win Real Estate (AUS )Pty Ltd
+21,Brisbane,St,Murrumbeena,3163,Vic,-37.8860236,145.0683535,House,3,1,1720000,AUSD,Gary Peer
+112,Murrumbeena,Rd,Murrumbeena,3163,Vic,-37.8918983,145.0664151,House,3,1,N/A,AUSD,Gary Peer
+1,Nangana,Rd,Murrumbeena,3163,Vic,-37.8868651,145.072295,Unit,2,1,630000,AUSP,Gary Peer
+246,High,St,Nagambie,3608,Vic,-36.7901003,145.1528677,House,3,1,550000,AUSD,Youngs & Co Real Estate
+6,Greendale,Ct,Narre Warren,3805,Vic,-38.0378619,145.3117787,House,4,2,N/A,AUPI,HAR Asap Group
+342,Melbourne,Rd,Newport,3015,Vic,-37.8453365,144.8853926,Unit,2,1,N/A,AUPI,Compton Green
+86,Woods,St,Newport,3015,Vic,-37.8451734,144.8737881,House,2,1,879000,AUSD,Compton Green
+1,Gallica,Cl,Niddrie,3042,Vic,-37.7464107,144.8811374,House,4,2,1875000,AUSP,Nelson Alexander Essendon
+14-16,Moushall,Av,Niddrie,3042,Vic,-37.7415164,144.8912315,House,2,1,N/A,AUSD,Brad Teal Woodards Essendon
+302,Abbotsford,St,North Melbourne,3051,Vic,-37.7995585,144.9463425,Unit,2,1,N/A,AUPI,Eview Group
+17-21,Blackwood,St,North Melbourne,3051,Vic,-37.801135,144.954911,Unit,2,1,615000,AUSP,Dingle Partners
+100-110,Curzon,St,North Melbourne,3051,Vic,-37.801565,144.948636,Townhouse,2,1,1215000,AUSD,Jellis Craig Fitzroy
+422,Dryburgh,St,North Melbourne,3051,Vic,-37.7953846,144.9451489,House,2,1,1062000,AUSD,Nelson Alexander Carlton
+209,Errol,St,North Melbourne,3051,Vic,-37.7996803,144.9499772,House,3,2,1068000,AUSD,Jellis Craig Fitzroy
+45,Leveson,St,North Melbourne,3051,Vic,-37.8038298,144.9507289,Townhouse,2,2,900000,AUVB,Nelson Alexander Carlton
+2,Henderson,St,Northcote,3070,Vic,-37.7822755,145.0109095,House,2,1,N/A,AUHB,Nelson Alexander Northcote
+11,Ilma,Gr,Northcote,3070,Vic,-37.7731264,145.0021284,House,4,2,N/A,AUSD,Nelson Alexander Northcote
+133,Mitchell,St,Northcote,3070,Vic,-37.7729044,145.0081546,House,4,2,N/A,AUHB,Jellis Craig Northcote
+20,Ross,St,Northcote,3070,Vic,-37.7842012,144.9992446,Unit,1,1,420000,AUVB,Nelson Alexander Northcote
+25,Finch,St,Notting Hill,3168,Vic,-37.9025338,145.1436407,House,3,1,N/A,AUPI,McGrath Waverley
+26,Betula,Av,Nunawading,3131,Vic,-37.830979,145.1845659,Townhouse,3,2,N/A,AUPI,Jellis Craig Whitehorse
+103a,Springvale,Rd,Nunawading,3131,Vic,-37.8158337,145.1768434,Townhouse,3,2,988500,AUSD,Jellis Craig Whitehorse
+15-17,Nerissa,Gr,Oak Park,3046,Vic,-37.7198015,144.9232937,Townhouse,2,2,N/A,AUPN,Eview Group - C+M Residential
+15-17,Nerissa,Gr,Oak Park,3046,Vic,-37.7198015,144.9232937,Townhouse,2,2,589000,AUSP,Eview Group - C+M Residential
+102,Vincent,St,Oak Park,3046,Vic,-37.7160193,144.9108421,House,3,2,1270000,AUSD,MATTHEWS
+89,Vincent,St,Oak Park,3046,Vic,-37.71713,144.912175,House,3,1,N/A,AUHB,Brad Teal Woodards Pascoe Vale
+24,Xavier,St,Oak Park,3046,Vic,-37.7197827,144.9196567,House,4,2,1290000,AUSD,Eview Group - C+M Residential
+10,Classic,Ct,Oakleigh,3166,Vic,-37.8938259,145.1045236,House,5,3,1230000,AUSD,RW Oakleigh
+2A,Grant,St,Oakleigh,3166,Vic,-37.8972997,145.0983472,Townhouse,3,1,N/A,AUVB,Buxton Oakleigh
+6,McIntosh,St,Oakleigh,3166,Vic,-37.9102742,145.0995894,House,4,2,1650000,AUSD,Buxton Oakleigh
+1,Westgate,St,Oakleigh,3166,Vic,-37.9041249,145.0868567,House,5,2,1650000,AUSD,Jellis Craig Bentleigh
+16,Lerina,St,Oakleigh East,3166,Vic,-37.9109401,145.1156426,Townhouse,3,2,N/A,AUSN,Buxton Oakleigh
+9,Surrey,Cr,Oakleigh East,3166,Vic,-37.9076095,145.1143712,House,3,1,1025000,AUSD,Biggin & Scott Glen Waverley
+8,Wallace,Av,Oakleigh South,3167,Vic,-37.91840918,145.1040972,House,4,2,1220000,AUSD,RW Oakleigh
+266,Warrigal,Rd,Oakleigh South,3167,Vic,-37.914891,145.0845516,House,4,2,1230000,AUSD,Buxton Oakleigh
+18,Foch,St,Ormond,3204,Vic,-37.8996992,145.0391529,House,5,2,N/A,AUPI,Ray White Carnegie
+536-538,North,Rd,Ormond,3204,Vic,-37.9040173,145.0387266,Unit,2,1,500000,AUVB,Gary Peer
+12,Walsh,St,Ormond,3204,Vic,-37.9024534,145.0455047,House,5,2,2216000,AUSD,Woodards Carnegie
+13,Ti-Tree,Gr,Parkdale,3195,Vic,-37.9953601,145.0735373,House,1,1,N/A,AUSD,Belle Property Mentone
+47,Austin,Cr,Pascoe Vale,3044,Vic,-37.7246195,144.9302354,Unit,2,1,513000,AUSD,Brad Teal Woodards Essendon
+34-36,Cornwall,Rd,Pascoe Vale,3044,Vic,-37.720497,144.937018,Unit,2,1,635000,AUSP,NAY Pascoe Vale
+91,Essex,St,Pascoe Vale,3044,Vic,-37.726749,144.9403889,House,2,1,N/A,AUSP,NAY Pascoe Vale
+1,Kinross,St,Pascoe Vale,3044,Vic,-37.7344527,144.94034,House,3,2,700000,AUVB,NAY Pascoe Vale
+56,Warwick,Rd,Pascoe Vale,3044,Vic,-37.7226449,144.9404478,Townhouse,2,1,630000,AUSD,Barry Plant Essendon
+1,Lochinvar,St,Pascoe Vale South,3044,Vic,-37.7493546,144.9449876,House,2,1,1240000,AUSD,Brad Teal Woodards Essendon
+6,Ward,Gr,Pascoe Vale South,3044,Vic,-37.7497709,144.9426649,House,3,1,N/A,AUPI,Brad Teal Woodards Essendon
+23,Baltic,Cct,Point Cook,3030,Vic,-37.9040969,144.7356901,House,3,2,744000,AUSD,HAR Point Cook
+1,Festival,Dr,Point Cook,3030,Vic,-37.9076374,144.741933,House,4,2,1165000,AUSD,Vicprop - Point Cook & Williams Lan
+11,Machair,Dr,Point Cook,3030,Vic,-37.8844511,144.7513734,House,4,2,N/A,AUSP,Buxton Inner West
+39,Albert,St,Port Melbourne,3207,Vic,-37.836505,144.933794,House,3,2,N/A,AUSD,Marshall White - Port Phillip
+461,Bay,St,Port Melbourne,3207,Vic,-37.8328037,144.9472673,House,3,1,N/A,AUSN,Belle Property South Melbourne
+223,Esplanade,Pl,Port Melbourne,3207,Vic,-37.8380106,144.9439122,House,3,2,N/A,AUSN,Marshall White - Port Phillip
+55,Johnston,St,Port Melbourne,3207,Vic,-37.843378,144.94345,Unit,2,1,N/A,AUSP,Buxton Port Phillip
+76,Station,St,Port Melbourne,3207,Vic,-37.836612,144.9393423,House,2,1,N/A,AUSN,Belle Property South Melbourne
+64,The Crescent,,Port Melbourne,3207,Vic,-37.8391287,144.9282141,House,4,2,N/A,AUSP,Marshall White - Port Phillip
+10,Lalbert,Cr,Prahran,3181,Vic,-37.8560703,145.0101562,Townhouse,3,2,1760000,AUHB,Kay & Burton Armadale
+13,Mackay,St,Prahran,3181,Vic,-37.8497341,145.0009015,Townhouse,4,2,2225000,AUHB,Marshall White - Port Phillip
+8,Perth,St,Prahran,3181,Vic,-37.8503375,144.9875598,Townhouse,3,2,N/A,AUSP,RT Edgar Toorak
+155,Cramer,St,Preston,3072,Vic,-37.7388383,144.9854727,House,4,2,N/A,AUSP,BP Inner North
+2B,Edwin,St,Preston,3072,Vic,-37.7531916,145.0182278,House,3,2,1170000,AUHB,Woodards Preston
+43,Eton,St,Preston,3072,Vic,-37.7447574,145.0216014,House,3,2,851000,AUHB,Love & Co
+65,Jensen,Rd,Preston,3072,Vic,-37.7379773,145.0232648,Townhouse,2,1,N/A,AUPN,Biggin & Scott Inner North
+19,Murphy,St,Preston,3072,Vic,-37.7305787,144.9849025,House,3,1,875000,AUSD,RW Preston
+32,Roseberry,Av,Preston,3072,Vic,-37.7391159,145.0082837,House,3,1,1230000,AUSP,Nelson Alexander Preston
+32,Sheila,St,Preston,3072,Vic,-37.7371494,145.0252453,House,3,2,958000,AUHB,Holland Price Real Estate
+4,Union,St,Preston,3072,Vic,-37.7286773,144.9907478,House,3,1,1350000,AUSD,Nelson Alexander Preston
+22,Broadhurst,Av,Reservoir,3073,Vic,-37.708268,145.0061314,House,4,2,1318000,AUSD,H & L Frederick Property
+1,Finton,Gr,Reservoir,3073,Vic,-37.6961917,145.0156017,House,4,2,N/A,AUVB,RW Preston
+18-20,Fordham,Rd,Reservoir,3073,Vic,-37.7143221,145.0203373,Townhouse,2,1,600000,AUHB,RW Reservoir
+3,Halsey,St,Reservoir,3073,Vic,-37.7026694,144.9876674,House,4,1,N/A,AUSP,Barry Plant Reservoir
+125,Henty,St,Reservoir,3073,Vic,-37.718752,144.992437,Unit,2,1,500000,AUSP,Ray White Bundoora
+8,Henty,St,Reservoir,3073,Vic,-37.7189325,145.0009232,House,3,1,N/A,AUSD,Nelson Alexander Reservoir
+8,Kerang,Av,Reservoir,3073,Vic,-37.7203986,145.0266231,House,3,1,780000,AUHB,Barry Plant Reservoir
+1,Mattea,Ct,Reservoir,3073,Vic,-37.7322957,145.035466,Unit,1,1,385000,AUSD,HAR Rata & Co
+16,Merrilands,Rd,Reservoir,3073,Vic,-37.6954647,145.0086496,House,3,1,790000,AUHB,Barry Plant Reservoir
+58,Purinuan,Rd,Reservoir,3073,Vic,-37.7087843,145.0270122,Unit,2,1,690000,AUHB,James & Co Real Estate
+53,Queen,St,Reservoir,3073,Vic,-37.7276737,145.0083233,Unit,2,1,590000,AUHB,S&L Reservoir
+8,Sharpe,St,Reservoir,3073,Vic,-37.7252031,145.0028171,House,3,1,1210000,AUSP,hockingstuart Preston
+64,Bendigo,St,Richmond,3121,Vic,-37.825594,145.0115983,House,4,2,N/A,AUPI,B&S Richmond
+32,Bosisto,St,Richmond,3121,Vic,-37.8180925,144.996716,Unit,2,1,550000,AUHB,Belle Property Armadale
+360,Burnley,St,Richmond,3121,Vic,-37.8252266,145.007132,Unit,2,2,N/A,AUHB,Jellis Craig Richmond & Surrounds
+Oct-14,Carroll,St,Richmond,3121,Vic,-37.8227949,144.9942555,Unit,8,8,2500000,AUVB,Jellis Craig Richmond & Surrounds
+54,Edinburgh,St,Richmond,3121,Vic,-37.825063,145.005507,House,4,2,1952000,AUSD,Jellis Craig Richmond & Surrounds
+318,Highett,St,Richmond,3121,Vic,-37.816738,145.005084,House,2,1,1318000,AUSD,Belle Property Richmond
+56,Kent,St,Richmond,3121,Vic,-37.8149631,145.0026896,House,3,2,N/A,AUHB,B&S Richmond
+51,Laity,St,Richmond,3121,Vic,-37.8133057,145.0028154,House,3,2,N/A,AUSP,Jellis Craig Richmond & Surrounds
+227,Lennox,St,Richmond,3121,Vic,-37.820764,144.994342,House,2,1,1620000,AUHB,Marshall White Stonnington
+11,Leslie,St,Richmond,3121,Vic,-37.8122705,145.0075089,Unit,2,2,565000,AUHB,Jellis Craig Richmond & Surrounds
+27,Murphy,St,Richmond,3121,Vic,-37.8175097,145.0069945,House,2,1,1090000,AUSD,B&S Richmond
+69,Palmer,St,Richmond,3121,Vic,-37.8186699,145.0079178,Unit,2,2,673000,AUSD,Jellis Craig Richmond & Surrounds
+49,Wellington,St,Richmond,3121,Vic,-37.8264299,144.9898053,House,2,2,N/A,AUSP,Jellis Craig Richmond & Surrounds
+338,Canterbury,Rd,Ringwood,3134,Vic,-37.8326463,145.2260697,Unit,3,2,900000,AUSP,Philip Webb Ringwood
+62,Mullum Mullum,Rd,Ringwood,3134,Vic,-37.8025018,145.2378757,House,5,5,1700000,AUVB,Ross Hunt Real Estate
+111,New,St,Ringwood,3134,Vic,-37.8253628,145.2207638,House,3,1,N/A,AUPI,OBrien Real Estate - Blackburn
+14-16,New,St,Ringwood,3134,Vic,-37.8125478,145.2198003,Unit,2,1,607500,AUHB,Philip Webb Ringwood
+18,Freeman,St,Ringwood East,3135,Vic,-37.8102755,145.2499749,Unit,2,1,582500,AUSD,OBrien Real Estate - Blackburn
+12,Federal,Rd,Ringwood East,3135,Vic,-37.8119052,145.2448804,Townhouse,4,3,1070000,PTSD,Philip Webb Ringwood
+6,Monterey,Pl,Ringwood North,3134,Vic,-37.78970941,145.240796,House,3,1,960000,AUSD,Fletchers Maroondah
+66,Coorie,Cr,Rosanna,3084,Vic,-37.741587,145.074164,Townhouse,2,1,780000,AUVB,Miles Real Estate Ivanhoe
+165,Mountain View,Pde,Rosanna,3084,Vic,-37.733575,145.0612462,Townhouse,3,2,1420000,AUSP,Nelson Alexander Ivanhoe
+791,Point Nepean,Rd,Rosebud,3939,Vic,-38.353504,144.915348,Unit,2,1,660000,AUSD,Belle Property Dromana
+120,Bridgewater,Wy,Rowville,3178,Vic,-37.9223756,145.2432495,House,4,2,N/A,AUSD,Ray White Carnegie
+12,Woodside,Dr,Rowville,3178,Vic,-37.9223533,145.2625677,House,4,2,1121000,AUSD,RW Oakleigh
+15,Codrington,St,Sandringham,3191,Vic,-37.9512997,145.0166657,Unit,2,1,N/A,AUSP,Buxton Hampton East
+24,Regent,Ct,Sandringham,3191,Vic,-37.9588763,145.0269244,House,4,2,N/A,AUPN,Marshall White Balwyn
+2,Sandringham,Rd,Sandringham,3191,Vic,-37.9509337,145.0052214,Unit,2,1,N/A,AUSP,Hodges Sandringham
+54-56,Sims,St,Sandringham,3191,Vic,-37.9538488,145.0118277,House,0,0,N/A,AUSP,Hodges Sandringham
+14,James,St,Seddon,3011,Vic,-37.8054895,144.8887453,House,3,1,N/A,AUVB,Village Real Estate - Seddon
+67,Walter,St,Seddon,3011,Vic,-37.8048229,144.8932157,House,3,1,N/A,AUSP,Jas Stephens Real Estate Yarraville
+78,Aloha,St,South Kingsville,3015,Vic,-37.8312919,144.8740078,House,3,2,N/A,AUPI,Ray White Altona
+443,Clarendon,St,South Melbourne,3205,Vic,-37.838063,144.96317,House,3,1,N/A,AUSN,Belle Property Brighton
+303,Park,St,South Melbourne,3205,Vic,-37.837041,144.956063,House,2,1,N/A,AUSN,Belle Property South Melbourne
+5,Briar,Ct,South Morang,3752,Vic,-37.6522957,145.090272,Unit,2,1,N/A,AUPN,Ray White Epping
+14,Featherpark,Tce,South Morang,3752,Vic,-37.6364537,145.0923072,House,3,2,705000,AUSD,RW South Morang
+9,Freshwater,Wy,South Morang,3752,Vic,-37.6312218,145.0845086,House,4,2,N/A,AUPI,Barry Plant Bundoora
+11,Galette,Pl,South Morang,3752,Vic,-37.6354554,145.0718858,House,5,3,N/A,AUPI,Barry Plant Bundoora
+2,Princetown,Dr,South Morang,3752,Vic,-37.6460844,145.0965945,House,4,2,792500,AUSD,Barry Plant Bundoora
+23,Tintern,Tce,South Morang,3752,Vic,-37.6401483,145.0825567,House,3,2,575000,PTSD,Morrison Kleeman E A
+19,Albion,St,South Yarra,3141,Vic,-37.8429857,144.9868067,House,4,1,N/A,AUVB,Woodards South Yarra
+23,Argo,St,South Yarra,3141,Vic,-37.8437519,144.9870219,Townhouse,2,2,1485000,AUSD,Belle Property South Yarra
+45,Caroline,St,South Yarra,3141,Vic,-37.8376295,144.9877968,Unit,2,1,570000,AUSD,Belle Property South Yarra
+37,Darling,St,South Yarra,3141,Vic,-37.8362691,144.991691,Unit,1,1,N/A,AUSP,Biggin & Scott Stonnington
+33,Kensington,Rd,South Yarra,3141,Vic,-37.8374416,145.0010093,Unit,2,1,N/A,AUHB,Biggin & Scott Stonnington
+49A,Kensington,Rd,South Yarra,3141,Vic,-37.8362701,145.00116,Unit,2,1,640000,AUSD,Woodards South Yarra
+263,Williams,Rd,South Yarra,3141,Vic,-37.8419176,145.0041191,Unit,2,1,1350000,AUVB,Marshall White Stonnington
+90-104,Wells,St,Southbank,3006,Vic,-37.828206,144.9679382,Unit,3,2,N/A,AUPI,RW Southbank & Port Phillip
+17,Grant,St,Southbank,3006,Vic,-37.8254511,144.9699408,Townhouse,4,4,N/A,PTSD,RT Edgar Toorak
+20,Birmingham,St,Spotswood,3015,Vic,-37.8305109,144.8793322,House,3,2,980000,AUSP,Village Real Estate - Seddon
+56,Charles,St,St Albans,3021,Vic,-37.7299674,144.7975825,House,3,1,667000,AUSD,White Knight Estate Agents
+84,Atheldene,Dr,St Albans,3021,Vic,-37.7288531,144.7851316,House,3,1,650000,PTSD,Barry Plant St Albans
+52,Oberon,Av,St Albans,3021,Vic,-37.7402516,144.8085752,Townhouse,3,2,645000,PTSD,Barry Plant St Albans
+33,Power,St,St Albans,3021,Vic,-37.7318347,144.8121395,Unit,3,2,615000,PTSD,Barry Plant St Albans
+111,Sunshine,Av,St Albans,,,,,House,3,,700000,PTSD,Barry Plant St Albans
+173-177,Barkly,St,St Kilda,3182,Vic,-37.8677958,144.9808926,Unit,2,1,N/A,AUPI,Belle Property St Kilda
+80,Clyde,St,St Kilda,3182,Vic,-37.8641636,144.9805239,House,2,1,N/A,AUSP,Jellis Craig Stonnington
+27,Herbert,St,St Kilda,3182,Vic,-37.8723102,144.9832228,Unit,1,1,517000,AUSD,Belle Property St Kilda
+26,Bailey,Av,St Kilda East,3183,Vic,-37.8753916,145.000708,House,4,2,2925000,AUSD,Jellis Craig Port Phillip Pty Ltd
+250,Dandenong,Rd,St Kilda East,3183,Vic,-37.8592538,145.0006146,Unit,1,1,270000,AUHB,Belle Property St Kilda
+33,Raglan,St,St Kilda East,3183,Vic,-37.864162,144.9939508,House,5,2,3150000,AUSD,Gary Peer
+17,Sebastopol,St,St Kilda East,3183,Vic,-37.8646925,144.9970488,Townhouse,3,1,N/A,AUSD,Buxton Port Phillip
+82,Park,St,St Kilda West,3182,Vic,-37.8570093,144.9704122,Unit,2,1,725000,AUSD,Abercromby's Real Estate
+10,Balmoral,Av,Strathmore,3041,Vic,-37.7364502,144.9098102,House,4,2,N/A,AUSD,Brad Teal Woodards Essendon
+52,Kernan,St,Strathmore,3041,Vic,-37.7361411,144.9144323,House,5,3,N/A,AUSP,McDonald Upton
+47,Strathnaver,Av,Strathmore,3041,Vic,-37.7184763,144.9039416,House,3,1,N/A,AUSN,Brad Teal Woodards Essendon
+107,Gap,Rd,Sunbury,3429,Vic,-37.5793435,144.7146692,House,3,1,556000,AUSD,RW Sunbury Pty Ltd
+21,Ernest,St,Sunshine,3020,Vic,-37.7804768,144.844252,Unit,3,1,772500,AUSD,HAR West
+9,McIntosh,St,Sunshine,3020,Vic,-37.7860694,144.8190539,House,4,1,1050000,AUSP,Barry Plant Sunshine
+24,Omega,St,Sunshine,3020,Vic,-37.7795901,144.836192,House,3,1,990000,AUHB,Douglas Kay Estate Agents
+13,Downing,St,Sunshine North,3020,Vic,-37.771115,144.839856,House,3,1,730000,AUHB,Douglas Kay Estate Agents
+73,Felstead,Av,Sunshine West,3020,Vic,-37.8028632,144.8183667,House,5,2,815000,AUSP,Barry Plant Sunshine
+164,Glengala,Rd,Sunshine West,3020,Vic,-37.7880722,144.8092193,House,3,1,615000,AUSD,Douglas Kay Estate Agents
+3,Nurla,Ct,Sunshine West,3020,Vic,-37.7955097,144.8166918,House,3,1,N/A,AUSP,Create Vic Real Estate
+20,Florence,Rd,Surrey Hills,3127,Vic,-37.8289703,145.1015621,Unit,3,1,N/A,AUSD,Noel Jones Balwyn
+47,Guildford,Rd,Surrey Hills,3127,Vic,-37.8217956,145.091153,House,3,2,3080000,AUVB,Nelson Alexander Kew
+88,Middlesex,Rd,Surrey Hills,3127,Vic,-37.8321907,145.0887078,House,4,2,1650000,AUVB,Jellis Craig - Boroondara
+1021,Riversdale,Rd,Surrey Hills,3127,Vic,-37.8364983,145.1034677,House,4,2,N/A,AUSP,Buxton Ashburton
+950,Riversdale,Rd,Surrey Hills,3127,Vic,-37.835908,145.0956965,Townhouse,3,2,N/A,AUPN,Marshall White Balwyn
+14,Varzin,Av,Surrey Hills,3127,Vic,-37.8305365,145.0978226,House,4,2,N/A,AUSN,Fletchers Canterbury
+18,Windsor,Cr,Surrey Hills,3127,Vic,-37.8236709,145.1010987,House,3,2,1600000,AUHB,Jellis Craig - Boroondara
+4,Bolac,Pl,Taylors Hill,3037,Vic,-37.716582,144.7634758,House,4,2,880000,AUSP,White Knight Estate Agents
+21,Perceval,Cr,Taylors Lakes,3038,Vic,-37.6902222,144.7676606,House,6,3,1050000,AUSD,Profesionals Taylors Lakes
+20,Strzelecki,Ct,Taylors Lakes,3038,Vic,-37.6952852,144.7934391,House,4,2,986400,AUSD,Ray White Taylors Lakes
+66,Greenridge,Av,Templestowe,3106,Vic,-37.7725437,145.1482325,House,4,2,1787000,AUSD,Buxton Box Hill
+34,Hillcroft,Dr,Templestowe,3106,Vic,-37.7708658,145.1371307,House,4,2,N/A,AUPI,Jellis Craig Whitehorse
+16-20,Oakwood,Ct,Templestowe,3106,Vic,-37.7737024,145.1558917,Townhouse,3,2,1180000,AUSP,Jellis Craig Doncaster
+282,Manningham,Rd,Templestowe Lower,3107,Vic,-37.77353,145.1112864,Townhouse,3,2,N/A,AUPI,Biggin & Scott Manningham
+26,Larch,St,Thomastown,3074,Vic,-37.6761866,145.0225971,Unit,2,2,575000,AUSP,HAR Rata & Co
+8,Manton,Ct,Thomastown,3074,Vic,-37.6824037,145.0041514,House,3,1,720000,AUSD,HAR Rata & Co
+12,Marjory,St,Thomastown,3074,Vic,-37.6820433,145.0229635,Unit,2,1,564500,AUSD,HAR Rata & Co
+4,Clyde,St,Thornbury,3071,Vic,-37.7612669,145.0062606,House,4,2,1610000,AUSP,BP Inner North
+9,Ethel,St,Thornbury,3057,Vic,-37.7722647,144.9750189,House,2,2,990000,AUSD,NAY Brunswick
+80,Harold,St,Thornbury,3071,Vic,-37.7560998,144.995328,House,3,2,1490000,AUSD,Nelson Alexander Northcote
+88,Rennie,St,Thornbury,3071,Vic,-37.7524726,144.9866776,House,3,1,N/A,AUHB,Jellis Craig Northcote
+21,Bruce,St,Toorak,3142,Vic,-37.8367666,145.0077887,Unit,1,1,N/A,AUVB,Woodards South Yarra
+50,St Georges,Rd,Toorak,3142,Vic,-37.8347802,145.0187229,Unit,3,2,1412000,AUSD,Thomson
+417,Toorak,Rd,Toorak,3142,Vic,-37.8402407,145.006411,Unit,3,1,N/A,AUSP,Marshall White Balwyn
+12,Mainview,Bvd,Truganina,3029,Vic,-37.8391472,144.7338669,House,4,2,812500,AUSD,The Eleet Wyndham City
+135,Jolimont,Rd,Vermont,3133,Vic,-37.844291,145.1871524,Unit,2,1,740000,AUSP,BP Blackburn
+266,Hawthorn,Rd,Vermont South,3133,Vic,-37.8479451,145.1831856,House,4,2,1210000,AUSD,Woodards Blackburn
+11,Prestbury,Dr,Vermont South,3133,Vic,-37.8467898,145.1756375,House,5,2,N/A,AUSD,RT Edgar Boroondara
+237a,Hawthorn,Rd,Vermont South,3133,Vic,-37.8491687,145.1774921,House,4,3,N/A,PTSD,Hoskins Maroondah
+82,Lyon,Rd,Viewbank,3084,Vic,-37.7338207,145.086749,House,4,2,1255000,AUSP,Nelson Alexander Ivanhoe
+121,Willandra,Cct,Warragul,3820,Vic,-38.1459145,145.9082282,House,4,2,N/A,AUPN,RW Doreen
+8-Oct,Blair,St,Warrandyte,3113,Vic,-37.747198,145.211981,House,4,2,N/A,PTSD,RT Edgar Boroondara
+127,Daltons,Rd,Warrnambool,3280,Vic,-38.3632965,142.4727176,House,4,1,N/A,AUSP,Ray White Warrnambool
+5,Floral,Pl,Warrnambool,3280,Vic,-38.3882708,142.501085,House,3,1,452000,AUSD,Ray White Warrnambool
+20,Kingston,Cl,Warrnambool,3280,Vic,-38.3628285,142.4767367,House,4,2,865000,AUSD,Ray White Warrnambool
+1,Ananda,Ct,Watsonia,3087,Vic,-37.715042,145.0753321,House,3,1,880000,AUHB,Darren Jones Real Estate
+16,Binnak,Dr,Watsonia North,3087,Vic,-37.6926603,145.08369,House,4,2,1090000,AUSD,Barry Plant Bundoora
+14,Gillingham,St,Watsonia North,3087,Vic,-37.6922064,145.0874383,House,3,2,815000,AUSD,Barry Plant Bundoora
+34,Kelvin,Gr,Werribee,3030,Vic,-37.896352,144.6410809,House,3,2,506500,AUSD,Westside Realty Group
+25,Mirabella,Cl,Werribee,3030,Vic,-37.8748402,144.6641124,House,3,1,531000,AUSP,RW Point Cook
+28B,Alma,St,West Footscray,3012,Vic,-37.794072,144.870738,House,2,1,780000,AUSD,Jas Stephens Real Estate Yarraville
+13,Beaumont,Pde,West Footscray,3012,Vic,-37.8081428,144.8688029,Unit,2,1,N/A,AUPI,Jas Stephens Real Estate Yarraville
+29,Blandford,St,West Footscray,3012,Vic,-37.7951027,144.8775271,Unit,2,1,625000,AUHB,Burnham Real Estate
+52,Devonshire,St,West Footscray,3012,Vic,-37.7901503,144.8671343,House,3,2,900000,AUSP,Jas Stephens Real Estate Yarraville
+24,Hampton,Pde,West Footscray,3012,Vic,-37.8063397,144.8676856,House,4,2,950000,AUHB,Trimson Partners
+5,Hansen,St,West Footscray,3012,Vic,-37.8053904,144.8786016,House,2,1,N/A,AUSP,Village Real Estate - Seddon
+4a,Khartoum,St,West Footscray,3012,Vic,-37.7906915,144.8802185,House,2,2,785750,AUSD,McGrath Yarraville
+35,Napoleon,St,West Footscray,3012,Vic,-37.7912172,144.8677286,House,3,1,900000,AUSP,Buxton Inner West
+13,Robbs,Rd,West Footscray,3012,Vic,-37.8051189,144.8772693,House,3,2,1500000,AUSP,Village Real Estate - Seddon
+30,Sredna,St,West Footscray,3012,Vic,-37.8019171,144.8605953,House,3,2,N/A,AUSP,Buxton Inner West
+5,Wattle,St,West Footscray,3012,Vic,-37.806238,144.8737021,Unit,2,1,N/A,AUSP,HS Yarraville
+470,William,St,West Melbourne,3003,Vic,-37.8064118,144.9543219,House,4,1,2610000,AUSD,Jellis Craig
+11,Patho,Ct,Westmeadows,3049,Vic,-37.6687159,144.9014266,Unit,3,2,630000,AUSP,Hpg Estate Agents
+45,Belinda,Cr,Wheelers Hill,3150,Vic,-37.9053913,145.1860453,House,5,3,N/A,AUHB,BP Monash
+24,Earlwood,Dr,Wheelers Hill,3150,Vic,-37.9105633,145.1755512,House,3,2,1141000,AUSD,Buxton Box Hill
+47,Plato,Cr,Wheelers Hill,3150,Vic,-37.9093481,145.1636696,House,4,2,1150000,AUSD,McGrath Waverley
+5,Planet,Ct,Whittington,3219,Vic,-38.174142,144.395601,House,3,1,370000,AUSD,Hayeswinckle Newtown
+27,Fieldwren,Dr,Williams Landing,3027,Vic,-37.859702,144.7348105,House,4,2,N/A,AUVB,RW South Morang
+160,Melbourne,Rd,Williamstown,3016,Vic,-37.8539008,144.8912169,House,4,3,N/A,AUHB,Jellis Craig Inner West
+47a,Henry,St,Windsor,3181,Vic,-37.854306,144.985876,House,2,1,N/A,AUSD,Jellis Craig Stonnington
+382,High,St,Windsor,3181,Vic,-37.8530429,145.000827,House,6,3,N/A,AUSD,Belle Property Armadale
+K6,High,St,Windsor,3181,Vic,-37.8509087,144.9830628,Unit,2,2,687000,AUSD,Simon Graf Real Estate
+10,Havelock,St,Wodonga,3690,Vic,-36.1234128,146.8909696,House,3,1,675000,AUSD,Wodonga Real Estate Best Agents
+17,Matilda,Av,Wollert,3750,Vic,-37.6172833,145.0312827,House,2,1,N/A,AUPI,Ray White Epping
+5,Pearce,Rd,Wollert,3750,Vic,-37.6093903,145.0136215,House,4,2,727000,AUSD,HAR Rata & Co
+8,Melbourne,La,Yackandandah,3749,Vic,-36.3153871,146.8379084,House,3,1,525000,AUSD,PJ Murphy Real Estate Pty Ltd
+16,Lowan,Av,Yallambie,3085,Vic,-37.7205407,145.1080789,House,3,2,900000,AUHB,Jellis Craig Greensborough
+21,Barnet,St,Yarraville,3013,Vic,-37.8112497,144.8926999,House,4,2,N/A,AUHB,Buxton Inner West
