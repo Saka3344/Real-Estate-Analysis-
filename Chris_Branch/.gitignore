@@ -1,5 +1,6 @@
 # Build and Release Folders
 config.js
+DataRequest.py
 bin-debug/
 bin-release/
 [Oo]bj/
