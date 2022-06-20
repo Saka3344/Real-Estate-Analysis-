@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="../static/lib/css//bootstrap.min.css">
+  <link rel="stylesheet" href="../static/lib/css/keen-dashboards.css">
+  <link rel="stylesheet" href="../static/lib/css/dc.css">
+  <link rel="stylesheet" href="../static/lib/css/style.css">
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+  crossorigin="" />
+</head>
+
+<body class="application">
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="./">Real Estate Analysis</a>
+      </div>
+    </div>
+  </div>
+
+  <!-- Create the table: -->
+  <div class="container-fluid">
+    <div class="row">
+
+      <!-- Set first column width: -->
+      <div class="col-sm-6">
+        <div class="row">
+
+          <!-- Row 1 - Column 1 --> 
+          <div class="col-sm-12">
+            <div class="chart-wrapper">
+              <div class="chart-title">Number of Bedrooms per Property Sold</div>
+              <div class="chart-stage">
+              <div id="map"></div>
+            </div>
+          </div>
+        </div>
+       </div>
+      </div>
+
+      <!-- Row 1 - Column 2 --> 
+      <!-- Set the column width:  -->
+      <div class="col-sm-6">
+        <div class="chart-wrapper">
+          <div class="chart-title">Auction Clearance Rates - Eastern Seaboard</div>
+          <div class="chart-stage">
+            <div id="map"></div>
+          </div>
+      </div>
+    </div>
+  
+  <!-- Second Row: -->
+  <div class="container-fluid">
+    <div class="row">
+  
+      <!-- Set the column width: -->
+      <div class="col-sm-6">
+        <div class="row">
+  
+          <!-- Row 2 - Column 1 --> 
+          <div class="col-sm-12">
+            <div class="chart-wrapper">
+              <div class="chart-title">Sales Per Suburb</div>
+              <div class="chart-stage">
+              <div id="map"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+        <!-- Row 2 - Column 2 --> 
+        <!-- Set the column width:  -->
+        <div class="col-sm-6">
+          <div class="chart-wrapper">
+            <div class="chart-title">Revenue per Agent</div>
+          <div class="chart-stage">
+        <div id="map"></div>
+        </div>
+      </div>
+    </div>
+
+      <!-- Third Row: -->
+  <div class="container-fluid">
+    <div class="row">
+  
+      <!-- Set the column width: -->
+      <div class="col-sm-6">
+        <div class="row">
+  
+          <!-- Row 3 - Column 1 --> 
+          <div class="col-sm-12">
+            <div class="chart-wrapper">
+              <div class="chart-title">Listings per Suburb</div>
+              <div class="chart-stage">
+              <div id="map"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  
+        <!-- Row 3 - Column 2 --> 
+        <!-- Set the column width:  -->
+        <div class="col-sm-6">
+          <div class="chart-wrapper">
+            <div class="chart-title">Median Sale Price per Suburb</div>
+          <div class="chart-stage">
+        <div id="map"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+<!-- A different approach: -->
+
+  <div class="row">
+    <div class="col-md-4" style='border: 1px solid rgb(0, 0, 0)'>
+      <p>Lorem ipsum dolor sit amet</p>
+    </div>
+
+    <div class="col-md-8" style='border: 1px solid rgb(0, 0, 0) '>
+      <div id="map"></div>
+    </div>
+  </div>
+
+  
+  <script src="../static/lib/js/jquery.min.js"></script>
+  <script src="../static/lib/js/bootstrap.min.js"></script>
+  <script src="../static/lib/js/crossfilter.js"></script>
+  <script src="../static/lib/js/d3.js"></script>
+  <script src="../static/lib/js/dc.js"></script>
+  <script src="../static/lib/js/queue.js"></script>
+  <script src="../static/lib/js/keen.min.js"></script>
+  <script src='../static/lib/css/style.css'></script>
+  <script src="./static/lib/js/config.js"></script>
+  <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+  integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+  crossorigin=""></script>
+  <script src='../static/js/logic.js'></script>
+</body>
+</html>
